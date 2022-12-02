@@ -1,0 +1,30 @@
+site:
+  en:
+    title: CS Int&eacute;rieurs
+  fr:
+    title: CS Int&eacute;rieurs
+
+header:
+  en:
+    home: Home
+    services: Services
+    portfolio: Portfolio
+    inspirations: Inspirations
+    contact: Contact
+  fr:
+    home: Accueil
+    services: Prestations
+    portfolio: R&eacute;alisations
+    inspirations: Inspirations
+    contact: Contact
+
+soon:
+  en:
+    title: Soon
+    subtitle: D&eacute;couvrez bient&ocirc;t nos prestations et r&eacute;alisations en d&eacute;coration d'int&eacute;rieur
+  fr:
+    title: Prochainement
+    subtitle: D&eacute;couvrez bient&ocirc;t nos prestations et r&eacute;alisations en d&eacute;coration d'int&eacute;rieur
+
+
+

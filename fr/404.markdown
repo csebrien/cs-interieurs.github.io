@@ -1,0 +1,47 @@
+---
+layout: null
+title: "404"
+---
+<html lang="en">
+{% include head.markdown %}
+
+
+<body>
+
+	{% include page-loading.markdown %}
+
+	<div class="wrapper">
+			
+		<header class="header-bg">
+			{% include header.markdown %}
+		</header><!--header end-->
+
+		{% include responsive-menu.markdown %}
+
+		<section class="error-page">
+			<div class="container">
+				<div class="error-content">
+					<div class="col-xl-6">
+						<div class="error-text">
+							<img src="{{ site.baseurl }}/assets/images/error.png" alt="">
+							<h2>Something has happened...</h2>
+							<p>This page is missing or you assembled the link incorrectly. Try again or come back</p>
+							<a href="#" title="" class="lnk-default"> <i class="la la-arrow-left"></i> Go Back <span></span> </a>
+						</div><!--error-text end-->
+					</div>
+				</div><!--error-content end-->
+			</div>
+		</section><!--error-page end-->
+
+		<footer>
+			{% include footer.markdown %}
+		</footer><!--footer end-->
+
+	</div><!--wrapper end-->
+
+{% include scripts.markdown %}
+
+
+</body>
+
+</html>
