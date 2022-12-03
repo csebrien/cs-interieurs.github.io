@@ -18,13 +18,27 @@ header:
     inspirations: Inspirations
     contact: Contact
 
+footer:
+  en:
+    contactus: Contact us
+    address: 12 avenue Andrée 94100 Saint-Maur-Des-Fossés
+    phone: +33 6 63271829
+    email: contact@cs-interieurs.com
+    legal: Legal
+  fr:
+    contactus: Contactez-nous
+    address: 12 avenue Andrée 94100 Saint-Maur-Des-Fossés
+    phone: +33 6 63271829
+    email: contact@cs-interieurs.com
+    legal: Mentions Légales
+
 soon:
   en:
     title: Soon
-    subtitle: D&eacute;couvrez bient&ocirc;t nos prestations et r&eacute;alisations en d&eacute;coration d'int&eacute;rieur
+    subtitle: D&eacute;couvrez bient&ocirc;t nos<br/>prestations et r&eacute;alisations<br/>en d&eacute;coration d'int&eacute;rieur
   fr:
     title: Prochainement
-    subtitle: D&eacute;couvrez bient&ocirc;t nos prestations et r&eacute;alisations en d&eacute;coration d'int&eacute;rieur
+    subtitle: D&eacute;couvrez bient&ocirc;t nos<br/>prestations et r&eacute;alisations<br/>en d&eacute;coration d'int&eacute;rieur
 
 
 

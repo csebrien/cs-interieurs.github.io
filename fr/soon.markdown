@@ -28,7 +28,7 @@ redirect_from:
 						<div class="error-text">
 							<h2>{{ site.data.i18n.soon[page.lang].title }}</h2>
 							<p>{{ site.data.i18n.soon[page.lang].subtitle }}</p>
-							<a href="#" title="" class="lnk-default"> <i class="la la-arrow-left"></i> Go Back <span></span> </a>
+							<a href="mailto:{{ site.data.i18n.footer[page.lang].email }}" class="lnk-default" title="">{{ site.data.i18n.footer[page.lang].contactus }}</a>
 						</div><!--error-text end-->
 					</div>
 				</div><!--error-content end-->
