@@ -6,8 +6,8 @@
 <script src="{{ site.baseurl }}/assets/js/plugin/counter.js"></script>
 <script src="{{ site.baseurl }}/assets/js/placeholdem.min.js"></script>
 <script src="{{ site.baseurl }}/assets/js/script.js"></script>
-<script
+<!--script
     type="text/javascript"
     async defer
     src="//assets.pinterest.com/js/pinit.js"
-></script>
+></script-->
