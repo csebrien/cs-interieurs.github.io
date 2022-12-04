@@ -2,7 +2,7 @@
 layout: null
 code: inspirations
 title: "Nos inspirations"
-permalink: /fr/nos_inspirations
+permalink: /fr/nos_inspirations # change corresponding i18n path variable if permalink changed here!
 ---
 <html lang="en">
 {% include head.markdown %}

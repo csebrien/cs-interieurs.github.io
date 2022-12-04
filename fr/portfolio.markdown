@@ -2,7 +2,7 @@
 layout: null
 code: portfolio
 title: "Nos dernières réalisations"
-permalink: /fr/nos_dernieres_realisations
+permalink: /fr/nos_dernieres_realisations # change corresponding i18n path variable if permalink changed here!
 ---
 <html lang="en">
 {% include head.markdown %}

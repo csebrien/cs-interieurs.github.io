@@ -1,5 +1,6 @@
 ---
 layout: null
+code: soon
 title: "soon"
 permalink: /fr/soon
 redirect_from:
@@ -36,7 +37,7 @@ redirect_from:
 		</section><!--error-page end-->
 
 		<footer>
-			{% include footer.markdown %}
+			{% include footer-soon.markdown %}
 		</footer><!--footer end-->
 
 	</div><!--wrapper end-->

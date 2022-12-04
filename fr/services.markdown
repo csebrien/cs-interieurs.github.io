@@ -2,7 +2,7 @@
 layout: null
 code: services
 title: "Nos prestations"
-permalink: /fr/nos_prestations
+permalink: /fr/nos_prestations # change corresponding i18n path variable if permalink changed here!
 ---
 <html lang="en">
 {% include head.markdown %}
@@ -21,12 +21,8 @@ permalink: /fr/nos_prestations
 		<section class="pager-section">
 			<div class="container">
 				<div class="pager-info">
-					<ul class="breadcrumb">
-						<li><a href="#" title="">Accueil</a></li>
-						<li><span>Services</span></li>
-					</ul><!--breadcrumb end-->
-					<h2>Prestations</h2>
-					<span>Please review our services</span>
+					<h2>{{ site.data.i18n.services[page.lang].subtitle }}</h2>
+					<span>{{ site.data.i18n.services[page.lang].subtitle2 }}</span>
 				</div>
 				<div class="pger-imgs style2">
 					<div class="abt-imgz">
@@ -37,89 +33,11 @@ permalink: /fr/nos_prestations
 			</div>
 		</section><!--pager-section end-->
 
-		<section class="block pb-0">
-			<div class="container">
-				<div class="section-title style2 align-items-center">
-					<h3 class="sub-title">A team United by shared values</h3>
-					<p class="mw-50">We are fans of our business, we work for your emotions. We are happy to see the family enjoying something new in their life and we are happy with them, because interior design is something more</p>
-					<div class="clearfix"></div>
-				</div>
-				<div class="team-section">
-					<div class="row">
-						<div class="col-lg-5">
-							<div class="team-head">
-								<h2>6 </h2>
-								<h3>Professional designers in our team</h3>
-							</div><!--team-head end-->
-						</div>
-						<div class="col-lg-7">
-							<div class="row">
-								<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-									<div class="team">
-										<img src="https://via.placeholder.com/280x280" alt="">
-										<div class="figcaption">
-											<h3>Daniel Nikolson</h3>
-											<span>Designer</span>
-										</div>
-									</div><!--team end-->
-								</div>
-								<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-									<div class="team">
-										<img src="https://via.placeholder.com/280x280" alt="">
-										<div class="figcaption">
-											<h3>Daniel Nikolson</h3>
-											<span>Designer</span>
-										</div>
-									</div><!--team end-->
-								</div>
-								<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-									<div class="team">
-										<img src="https://via.placeholder.com/280x280" alt="">
-										<div class="figcaption">
-											<h3>Daniel Nikolson</h3>
-											<span>Designer</span>
-										</div>
-									</div><!--team end-->
-								</div>
-								<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-									<div class="team">
-										<img src="https://via.placeholder.com/280x280" alt="">
-										<div class="figcaption">
-											<h3>Daniel Nikolson</h3>
-											<span>Designer</span>
-										</div>
-									</div><!--team end-->
-								</div>
-								<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-									<div class="team">
-										<img src="https://via.placeholder.com/280x280" alt="">
-										<div class="figcaption">
-											<h3>Daniel Nikolson</h3>
-											<span>Designer</span>
-										</div>
-									</div><!--team end-->
-								</div>
-								<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-									<div class="team">
-										<img src="https://via.placeholder.com/280x280" alt="">
-										<div class="figcaption">
-											<h3>Daniel Nikolson</h3>
-											<span>Designer</span>
-										</div>
-									</div><!--team end-->
-								</div>
-							</div>
-						</div>
-					</div>
-				</div><!--team-section end-->
-			</div>
-		</section>
-
 		<section class="block">
 			<div class="container">
 				<div class="section-title style2 align-items-center">
-					<h3 class="sub-title mw-45">We are ready to offer you the following services</h3>
-					<p class="mw-45">Phasellus vel augue lacus. Nunc porttitor mattis elementum. Ut cursus risus quis sem consectetur, fermentum leo him. Pellentesque eget cursus nisi,ornare nisi. Integer orci </p>
+					<h3 class="sub-title mw-45">{{ site.data.i18n.services[page.lang].section1_title }}</h3>
+					<p class="mw-45">{{ site.data.i18n.services[page.lang].section1_description }}</p>
 					<div class="clearfix"></div>
 				</div>
 				<div class="svs-section">
@@ -128,9 +46,9 @@ permalink: /fr/nos_prestations
 							<img src="https://via.placeholder.com/570x465" alt="" class="w-100">
 						</div>
 						<div class="svss-info">
-							<h3><a href="#" title="">Architectural development</a></h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et velit enim. Suspendisse at est at ex eleifend elementum. Maecenas vitae neque id nisl maximus luctus. Etiam non egestas diam. Cras mollis dolor in gravida sollicitudin. Curabitur tristique varius vestibulum. Phasellus sed ex eu justo </p>
-							<a href="#" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
+							<h3><a href="#" title="">{{ site.data.i18n.services[page.lang].section1_benefit1_title }}</a></h3>
+							<p>{{ site.data.i18n.services[page.lang].section1_benefit1_description }}</p>
+							<a href="#" title="" class="lnk-default2">{{ site.data.i18n.services[page.lang].section1_benefit1_button }} <i class="la la-arrow-right"></i></a>
 						</div>
 					</div><!--svs-item end-->
 					<div class="svs-item">
@@ -138,9 +56,9 @@ permalink: /fr/nos_prestations
 							<img src="https://via.placeholder.com/570x465" alt="" class="w-100">
 						</div>
 						<div class="svss-info">
-							<h3><a href="#" title="">Interior design</a></h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et velit enim. Suspendisse at est at ex eleifend elementum. Maecenas vitae neque id nisl maximus luctus. Etiam non egestas diam. Cras mollis dolor in gravida sollicitudin. Curabitur tristique varius vestibulum. Phasellus sed ex eu justo </p>
-							<a href="#" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
+							<h3><a href="#" title="">{{ site.data.i18n.services[page.lang].section1_benefit2_title }}</a></h3>
+							<p>{{ site.data.i18n.services[page.lang].section1_benefit2_description }}</p>
+							<a href="#" title="" class="lnk-default2">{{ site.data.i18n.services[page.lang].section1_benefit2_button }} <i class="la la-arrow-right"></i></a>
 						</div>
 					</div><!--svs-item end-->
 					<div class="svs-item">
@@ -148,9 +66,19 @@ permalink: /fr/nos_prestations
 							<img src="https://via.placeholder.com/570x465" alt="" class="w-100">
 						</div>
 						<div class="svss-info">
-							<h3><a href="#" title="">Commercial interior design</a></h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et velit enim. Suspendisse at est at ex eleifend elementum. Maecenas vitae neque id nisl maximus luctus. Etiam non egestas diam. Cras mollis dolor in gravida sollicitudin. Curabitur tristique varius vestibulum. Phasellus sed ex eu justo </p>
-							<a href="#" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
+							<h3><a href="#" title="">{{ site.data.i18n.services[page.lang].section1_benefit3_title }}</a></h3>
+							<p>{{ site.data.i18n.services[page.lang].section1_benefit3_description }}</p>
+							<a href="#" title="" class="lnk-default2">{{ site.data.i18n.services[page.lang].section1_benefit3_button }} <i class="la la-arrow-right"></i></a>
+						</div>
+					</div><!--svs-item end-->
+					<div class="svs-item">
+						<div class="svs-img">
+							<img src="https://via.placeholder.com/570x465" alt="" class="w-100">
+						</div>
+						<div class="svss-info">
+							<h3><a href="#" title="">{{ site.data.i18n.services[page.lang].section1_benefit4_title }}</a></h3>
+							<p>{{ site.data.i18n.services[page.lang].section1_benefit4_description }}</p>
+							<a href="#" title="" class="lnk-default2">{{ site.data.i18n.services[page.lang].section1_benefit4_button }} <i class="la la-arrow-right"></i></a>
 						</div>
 					</div><!--svs-item end-->
 				</div><!--svs-section end-->

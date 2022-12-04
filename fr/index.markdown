@@ -1,6 +1,7 @@
 ---
 layout: null
 code: home
+permalink: /fr/index.html # change corresponding i18n path variable if permalink changed here!
 title: CS Intérieurs, décoration et design d'intérieur
 ---
 <html lang="fr">
@@ -60,9 +61,9 @@ title: CS Intérieurs, décoration et design d'intérieur
 						</div>
 						<div class="col-lg-6">
 							<div class="about-text">
-								<h2 class="sub-title">History of our creation</h2>
-								<p>Since our humble beginnings in 2006, We has significantly expanded its collection of exclusive lamps. Today we are proud to present you our best lighting design solutions. Our collection is updated every day with beautiful solutions and we are glad that you, our customers, support us on way! Our collection is updated every day with beautiful solutions</p>
-								<a href="about.html" title="" class="lnk-default2">Read more <i class="la la-arrow-right"></i></a>
+								<h2 class="sub-title">{{ site.data.i18n.home[page.lang].section1_title }}</h2>
+								<p>{{ site.data.i18n.home[page.lang].section1_subtitle }}</p>
+								<a href="about.html" title="" class="lnk-default2">{{ site.data.i18n.home[page.lang].section1_button }} <i class="la la-arrow-right"></i></a>
 							</div><!--about-text end-->
 						</div>
 					</div>
@@ -70,122 +71,72 @@ title: CS Intérieurs, décoration et design d'intérieur
 			</div>
 		</section>
 
-		<section class="block pb-0">
+		<section class="block">
 			<div class="container">
-				<h3 class="sub-title">A team United by shared values</h3>
-				<div class="team-section">
-					<div class="row">
-						<div class="col-lg-5">
-							<div class="team-head">
-								<h2>6 </h2>
-								<h3>Professional designers in our team</h3>
-							</div><!--team-head end-->
-						</div>
-						<div class="col-lg-7">
-							<div class="row">
-								<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-									<div class="team">
-										<img src="https://via.placeholder.com/280x280" alt="">
-										<div class="figcaption">
-											<h3>Daniel Nikolson</h3>
-											<span>Designer</span>
-										</div>
-									</div><!--team end-->
-								</div>
-								<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-									<div class="team">
-										<img src="https://via.placeholder.com/280x280" alt="">
-										<div class="figcaption">
-											<h3>Daniel Nikolson</h3>
-											<span>Designer</span>
-										</div>
-									</div><!--team end-->
-								</div>
-								<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-									<div class="team">
-										<img src="https://via.placeholder.com/280x280" alt="">
-										<div class="figcaption">
-											<h3>Daniel Nikolson</h3>
-											<span>Designer</span>
-										</div>
-									</div><!--team end-->
-								</div>
-								<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-									<div class="team">
-										<img src="https://via.placeholder.com/280x280" alt="">
-										<div class="figcaption">
-											<h3>Daniel Nikolson</h3>
-											<span>Designer</span>
-										</div>
-									</div><!--team end-->
-								</div>
-								<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-									<div class="team">
-										<img src="https://via.placeholder.com/280x280" alt="">
-										<div class="figcaption">
-											<h3>Daniel Nikolson</h3>
-											<span>Designer</span>
-										</div>
-									</div><!--team end-->
-								</div>
-								<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-									<div class="team">
-										<img src="https://via.placeholder.com/280x280" alt="">
-										<div class="figcaption">
-											<h3>Daniel Nikolson</h3>
-											<span>Designer</span>
-										</div>
-									</div><!--team end-->
-								</div>
-							</div>
-						</div>
-					</div>
-				</div><!--team-section end-->
+				<div class="section-title align-items-center">
+					<h3 class="sub-title">{{ site.data.i18n.home[page.lang].section2_title }}</h3>
+					<a href="{{ site.baseurl }}/{{ page.lang }}/{{ site.data.i18n.portfolio[page.lang].path }}" title="" class="lnk-default2">{{ site.data.i18n.home[page.lang].section2_button }} <i class="la la-arrow-right"></i></a>
+				</div><!--section-title end-->
+				<div class="process-section">
+					<ul>
+						<li>
+							<div class="proz-mint">
+								<h3>{{ site.data.i18n.home[page.lang].section2_subtitle1 }}</h3>
+								<p>{{ site.data.i18n.home[page.lang].section2_subdescription1 }}</p>
+								<h2 class="p-num"></h2>
+							</div><!--proz-mint end-->
+						</li>
+						<li>
+							<div class="proz-mint">
+								<h3>{{ site.data.i18n.home[page.lang].section2_subtitle2 }}</h3>
+								<p>{{ site.data.i18n.home[page.lang].section2_subdescription2 }}</p>
+								<h2 class="p-num"></h2>
+							</div><!--proz-mint end-->
+						</li>
+						<li>
+							<div class="proz-mint">
+								<h3>{{ site.data.i18n.home[page.lang].section2_subtitle3 }}</h3>
+								<p>{{ site.data.i18n.home[page.lang].section2_subdescription3 }}</p>
+								<h2 class="p-num"></h2>
+							</div><!--proz-mint end-->
+						</li>
+						
+					</ul>
+					<div class="clearfix"></div>
+				</div><!--process-section end-->
 			</div>
 		</section>
 
 		<section class="block">
 			<div class="container">
 				<div class="section-title align-items-center">
-					<h3 class="sub-title">Our work process make your dream true</h3>
-					<a href="#" title="" class="lnk-default2">More detailed <i class="la la-arrow-right"></i></a>
+					<h3 class="sub-title">{{ site.data.i18n.home[page.lang].section3_title }}</h3>
+					<a href="{{ site.baseurl }}/{{ page.lang }}/{{ site.data.i18n.portfolio[page.lang].path }}" title="" class="lnk-default2">{{ site.data.i18n.home[page.lang].section3_button }} <i class="la la-arrow-right"></i></a>
 				</div><!--section-title end-->
 				<div class="process-section">
 					<ul>
 						<li>
 							<div class="proz-mint">
-								<h3>Concept</h3>
+								<h3>{{ site.data.i18n.home[page.lang].section3_subtitle1 }}</h3>
+								<p>{{ site.data.i18n.home[page.lang].section3_subdescription1 }}</p>
 								<h2 class="p-num"></h2>
 							</div><!--proz-mint end-->
 						</li>
 						<li>
 							<div class="proz-mint">
-								<h3>Design</h3>
-								<p>Donec vitae semper, quis finibus mauris. Morbi tortor</p>
-								<h2 class="p-num">03.</h2>
+								<h3>{{ site.data.i18n.home[page.lang].section3_subtitle2 }}</h3>
+								<p>{{ site.data.i18n.home[page.lang].section3_subdescription2 }}</p>
+								<h2 class="p-num"></h2>
 							</div><!--proz-mint end-->
 						</li>
 						<li>
 							<div class="proz-mint">
-								<h3>Launch</h3>
-								<p>Donec vitae semper, quis finibus mauris. Morbi tortor</p>
-								<h2 class="p-num">05.</h2>
+								<h3>{{ site.data.i18n.home[page.lang].section3_subtitle3 }}</h3>
+								<p>{{ site.data.i18n.home[page.lang].section3_subdescription3 }}</p>
+								<h2 class="p-num"></h2>
 							</div><!--proz-mint end-->
 						</li>
-						<li>
-							<div class="proz-mint">
-								<h3>Plan</h3>
-								<p>Donec vitae semper, quis finibus mauris. Morbi tortor</p>
-								<h2 class="p-num">02.</h2>
-							</div><!--proz-mint end-->
-						</li>
-						<li>
-							<div class="proz-mint">
-								<h3>Build</h3>
-								<p>Donec vitae semper, quis finibus mauris. Morbi tortor</p>
-								<h2 class="p-num">04.</h2>
-							</div><!--proz-mint end-->
-						</li>
+						
 					</ul>
 					<div class="clearfix"></div>
 				</div><!--process-section end-->
@@ -199,9 +150,9 @@ title: CS Intérieurs, décoration et design d'intérieur
 					<div class="row">
 						<div class="col-lg-5">
 							<div class="project-text">
-								<h3 class="sub-title">Our latest projects</h3>
-								<p>This is why we are proud to offer a wide selection of our designer ceiling, wall, floor and table lamps. You will also find products ranging from modern styles, modern interpretations of classic design. Our collection is updated every day with beautiful solutions and we are glad that you, our customers </p>
-								<a href="portfolio.html" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
+								<h3 class="sub-title">{{ site.data.i18n.home[page.lang].section4_title }}</h3>
+								<p>{{ site.data.i18n.home[page.lang].section4_subtitle }}</p>
+								<a href="portfolio.html" title="" class="lnk-default2">{{ site.data.i18n.home[page.lang].section4_button }} <i class="la la-arrow-right"></i></a>
 							</div><!--project-text end-->
 						</div>
 						<div class="col-lg-7">
@@ -244,7 +195,7 @@ title: CS Intérieurs, décoration et design d'intérieur
 		<section class="block testi-section">
 			<div class="container">
 				<div class="section-title">
-					<h3 class="sub-title">Thanks for your sweet words to us</h3>
+					<h3 class="sub-title">{{ site.data.i18n.home[page.lang].section5_title }}</h3>
 				</div><!--section-title end-->
 				<div class="testimonial-section">
 					<div class="row testi-carousel">
@@ -345,29 +296,6 @@ title: CS Intérieurs, décoration et design d'intérieur
 						</div>
 					</div>
 				</div><!--testimonial-section end-->
-			</div>
-		</section>
-
-		<section class="consultation-sec">
-			<div class="container">
-				<div class="consultation-section">
-					<div class="row align-items-center">
-						<div class="col-lg-7">
-							<div class="consult-text">
-								<h3 class="sub-title">Get a free consultation. Just leave a request below</h3>
-								<form class="subsc-form">
-									<input type="text" name="name" placeholder="Your phone number">
-									<button type="submit" class="lnk-default">Сallback <i class="la la-arrow-right"></i> <span></span></button>
-								</form>
-							</div><!--consult-text end-->
-						</div>
-						<div class="col-lg-5">
-							<div class="consult-img wow slideInUp" data-wow-duration="1000ms">
-								<img src="https://via.placeholder.com/484x646" alt="">
-							</div><!--consult-img end-->
-						</div>
-					</div>
-				</div><!--consultation-section end-->
 			</div>
 		</section>
 
