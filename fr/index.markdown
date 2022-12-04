@@ -1,6 +1,7 @@
 ---
 layout: null
-title: "home"
+code: home
+title: CS Intérieurs, décoration et design d'intérieur
 ---
 <html lang="fr">
 {% include head.markdown %}
@@ -22,42 +23,23 @@ title: "home"
 				<div class="row align-items-center">
 					<div class="col-lg-6">
 						<div class="banner-content">
-							<h2 class="wow fadeInUp" data-wow-duration="1000ms">We Make Your H<span>o</span>me Better</h2>
-							<p class="wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">We are tending to the thousands of details it takes to create a custom home tailored to your lifestyle</p>
-							<a href="contact.html" title="" class="lnk-default wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">to order <i class="la la-arrow-right"></i> <span></span></a>
-							<ul class="banz-list wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="700ms">
-								<li>
-									<div class="mint-fzt">
-										<img src="{{ site.baseurl }}/assets/images/icon1.png" alt="">
-										<div class="bzn-csd">
-											<h5>Durability</h5>
-											<span>Exclusive 10 year warrantly</span>
-										</div>
-									</div>
-								</li>
-								<li>
-									<div class="mint-fzt">
-										<img src="{{ site.baseurl }}/assets/images/icon2.png" alt="">
-										<div class="bzn-csd">
-											<h5>Modern interior</h5>
-											<span>Exclusive 10 year warrantly</span>
-										</div>
-									</div>
-								</li>
-							</ul><!--banz-list end-->
+							<h2 class="wow fadeInUp" data-wow-duration="1000ms">{{ site.data.i18n.home[page.lang].subtitle }}</h2>
+							<p class="wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">{{ site.data.i18n.home[page.lang].subtitle2 }}</p>
+							<a href="nos_dernieres_realisations" title="" class="lnk-default wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">{{ site.data.i18n.home[page.lang].mainbutton }} <i class="la la-arrow-right"></i> <span></span></a>
+							
 							<div class="clearfix"></div>
 						</div><!--banner-content end-->
 					</div>
 					<div class="col-lg-6">
 						<div class="banner-slider">
 							<div class="banner-slide">
-								<img src="{{ site.baseurl }}/assets/images/home_slider_1.png" alt="">
+								<a href="nos_inspirations" title=""><img src="{{ site.baseurl }}/assets/images/home_slider_1.png" alt="" /></a>
 							</div><!--banner-slide end-->
 							<div class="banner-slide">
-								<img src="{{ site.baseurl }}/assets/images/home_slider_2.png" alt="">
+								<a href="nos_inspirations" title=""><img src="{{ site.baseurl }}/assets/images/home_slider_2.png" alt=""/></a>
 							</div><!--banner-slide end-->
 							<div class="banner-slide">
-								<img src="{{ site.baseurl }}/assets/images/home_slider_3.png" alt="">
+								<a href="nos_inspirations" title=""><img src="{{ site.baseurl }}/assets/images/home_slider_3.png" alt=""/></a>
 							</div><!--banner-slide end-->
 						</div><!--banner-slider end-->
 					</div>

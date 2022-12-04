@@ -1,7 +1,7 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>{{ site.data.texts-fr.site-title }}</title>
+	<title>{{ page.title }}</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Mint Multipurpose Agency Website" />
 	<meta name="author" content="George_fx">

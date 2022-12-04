@@ -1,6 +1,8 @@
 ---
 layout: null
-title: "inspirations"
+code: inspirations
+title: "Nos inspirations"
+permalink: /fr/nos_inspirations
 ---
 <html lang="en">
 {% include head.markdown %}

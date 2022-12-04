@@ -1,6 +1,8 @@
 ---
 layout: null
-title: "contact"
+code: contact
+title: "Contactez-nous"
+permalink: /fr/contactez_nous
 ---
 <html lang="en">
 {% include head.markdown %}

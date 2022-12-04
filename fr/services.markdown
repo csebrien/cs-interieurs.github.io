@@ -1,6 +1,8 @@
 ---
 layout: null
-title: "services"
+code: services
+title: "Nos prestations"
+permalink: /fr/nos_prestations
 ---
 <html lang="en">
 {% include head.markdown %}

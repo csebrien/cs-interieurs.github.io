@@ -1,6 +1,8 @@
 ---
 layout: null
-title: "portfolio"
+code: portfolio
+title: "Nos dernières réalisations"
+permalink: /fr/nos_dernieres_realisations
 ---
 <html lang="en">
 {% include head.markdown %}

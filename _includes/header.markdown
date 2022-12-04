@@ -9,11 +9,11 @@
         <nav>
             {% if page.title != "soon" %}
             <ul>
-                <li><a class="{% if page.title == "home" %}active{% endif %}" href="{{ site.baseurl }}/{{ page.lang }}/index.html" title="">{{ site.data.i18n.header[page.lang].home }}</a></li>
-                <li><a class="{% if page.title == "services" %}active{% endif %}" href="{{ site.baseurl }}/{{ page.lang }}/services.html" title="">{{ site.data.i18n.header[page.lang].services }}</a></li>
-                <li><a class="{% if page.title == "portfolio" %}active{% endif %}" href="{{ site.baseurl }}/{{ page.lang }}/portfolio.html" title="">{{ site.data.i18n.header[page.lang].portfolio }}</a></li>
-                <li><a class="{% if page.title == "inspirations" %}active{% endif %}" href="{{ site.baseurl }}/{{ page.lang }}/inspirations.html" title="">{{ site.data.i18n.header[page.lang].inspirations }}</a></li>
-                <li><a class="{% if page.title == "contact" %}active{% endif %}" href="{{ site.baseurl }}/{{ page.lang }}/contact.html" title="">{{ site.data.i18n.header[page.lang].contact }}</a></li>
+                <li><a class="{% if page.code == "home" %}active{% endif %}" href="{{ site.baseurl }}/{{ page.lang }}/index.html" title="">{{ site.data.i18n.header[page.lang].home }}</a></li>
+                <li><a class="{% if page.code == "services" %}active{% endif %}" href="{{ site.baseurl }}/{{ page.lang }}/nos_prestations" title="">{{ site.data.i18n.header[page.lang].services }}</a></li>
+                <li><a class="{% if page.code == "portfolio" %}active{% endif %}" href="{{ site.baseurl }}/{{ page.lang }}/nos_dernieres_realisations" title="">{{ site.data.i18n.header[page.lang].portfolio }}</a></li>
+                <li><a class="{% if page.code == "inspirations" %}active{% endif %}" href="{{ site.baseurl }}/{{ page.lang }}/nos_inspirations" title="">{{ site.data.i18n.header[page.lang].inspirations }}</a></li>
+                <li><a class="{% if page.code == "contact" %}active{% endif %}" href="{{ site.baseurl }}/{{ page.lang }}/contactez_nous" title="">{{ site.data.i18n.header[page.lang].contact }}</a></li>
             </ul>
             {% endif %}
         </nav><!--navigation end-->

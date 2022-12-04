@@ -1,9 +1,3 @@
-site:
-  en:
-    title: CS Int&eacute;rieurs
-  fr:
-    title: CS Int&eacute;rieurs
-
 header:
   en:
     home: Home
@@ -14,9 +8,19 @@ header:
   fr:
     home: Accueil
     services: Prestations
-    portfolio: R&eacute;alisations
+    portfolio: Réalisations
     inspirations: Inspirations
     contact: Contact
+
+home:
+  en:
+    subtitle: Design et décoration d'intérieur
+    subtitle2: Changez de décor
+    mainbutton: Nos dernieres réalisations
+  fr:
+    subtitle: Design et décoration d'intérieur
+    subtitle2: Changez de décor
+    mainbutton: Nos dernieres réalisations
 
 footer:
   en:
@@ -35,10 +39,10 @@ footer:
 soon:
   en:
     title: Soon
-    subtitle: D&eacute;couvrez bient&ocirc;t nos<br/>prestations et r&eacute;alisations<br/>en d&eacute;coration d'int&eacute;rieur
+    subtitle: Découvrez bientôt nos<br/>prestations et réalisations<br/>en décoration d'intérieur
   fr:
     title: Prochainement
-    subtitle: D&eacute;couvrez bient&ocirc;t nos<br/>prestations et r&eacute;alisations<br/>en d&eacute;coration d'int&eacute;rieur
+    subtitle: Découvrez bientôt nos<br/>prestations et réalisations<br/>en décoration d'intérieur
 
 
 
