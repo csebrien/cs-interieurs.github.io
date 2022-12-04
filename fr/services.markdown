@@ -26,7 +26,7 @@ permalink: /fr/nos_prestations # change corresponding i18n path variable if perm
 				</div>
 				<div class="pger-imgs style2">
 					<div class="abt-imgz">
-						<img src="https://via.placeholder.com/763x509" alt="">
+						<img src="{{ site.baseurl }}/assets/images/prestations.png" alt="">
 					</div>
 				</div><!--pger-imgs end-->
 				<div class="clearfix"></div>
@@ -43,7 +43,7 @@ permalink: /fr/nos_prestations # change corresponding i18n path variable if perm
 				<div class="svs-section">
 					<div class="svs-item">
 						<div class="svs-img">
-							<img src="https://via.placeholder.com/570x465" alt="" class="w-100">
+							<img src="{{ site.baseurl }}/assets/images/images_prestations_570x465_1.png" alt="" class="w-100">
 						</div>
 						<div class="svss-info">
 							<h3><a href="#" title="">{{ site.data.i18n.services[page.lang].section1_benefit1_title }}</a></h3>
@@ -53,7 +53,7 @@ permalink: /fr/nos_prestations # change corresponding i18n path variable if perm
 					</div><!--svs-item end-->
 					<div class="svs-item">
 						<div class="svs-img">
-							<img src="https://via.placeholder.com/570x465" alt="" class="w-100">
+							<img src="{{ site.baseurl }}/assets/images/images_prestations_570x465_2.png" alt="" class="w-100">
 						</div>
 						<div class="svss-info">
 							<h3><a href="#" title="">{{ site.data.i18n.services[page.lang].section1_benefit2_title }}</a></h3>
@@ -63,7 +63,7 @@ permalink: /fr/nos_prestations # change corresponding i18n path variable if perm
 					</div><!--svs-item end-->
 					<div class="svs-item">
 						<div class="svs-img">
-							<img src="https://via.placeholder.com/570x465" alt="" class="w-100">
+							<img src="{{ site.baseurl }}/assets/images/images_prestations_570x465_3.png" alt="" class="w-100">
 						</div>
 						<div class="svss-info">
 							<h3><a href="#" title="">{{ site.data.i18n.services[page.lang].section1_benefit3_title }}</a></h3>
@@ -73,7 +73,7 @@ permalink: /fr/nos_prestations # change corresponding i18n path variable if perm
 					</div><!--svs-item end-->
 					<div class="svs-item">
 						<div class="svs-img">
-							<img src="https://via.placeholder.com/570x465" alt="" class="w-100">
+							<img src="{{ site.baseurl }}/assets/images/images_prestations_570x465_3.png" alt="" class="w-100">
 						</div>
 						<div class="svss-info">
 							<h3><a href="#" title="">{{ site.data.i18n.services[page.lang].section1_benefit4_title }}</a></h3>
