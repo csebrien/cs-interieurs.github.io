@@ -159,19 +159,28 @@ contact:
     path: contactez_nous
   fr:
     path: contactez_nous
+    subtitle: Contactez-nous
+    subtitle2: et soumettez nous votre projet
+    question: Des questions ou suggestions. Ecrivez nous et nous vous recontacterons!
+    subtitle3: Contactez-nous
+    address: 12 avenue Andrée 94100 Saint-Maur-Des-Fossés
+    work_time: Lundi au vendredi, de 9h à 18h
+    phone: +33 6 63271829
+    email: contact@cs-interieurs.com
+    name: Nom
+    from_city: De quelle ville venez vous?
+    dest_email: E-mail
+    dest_phone: Téléphone
+    message: Message
+    subscribe: Abonnez vous à nos reseaux sociaux
+    email_subject: Nouveau message du site cs-interieurs!
 
 footer:
   en:
     contactus: Contact us
-    address: 12 avenue Andrée 94100 Saint-Maur-Des-Fossés
-    phone: +33 6 63271829
-    email: contact@cs-interieurs.com
     legal: Legal
   fr:
     contactus: Contactez-nous
-    address: 12 avenue Andrée 94100 Saint-Maur-Des-Fossés
-    phone: +33 6 63271829
-    email: contact@cs-interieurs.com
     legal: Mentions Légales
 
 soon:

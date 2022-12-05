@@ -11,9 +11,11 @@
                     </form>
                     <span>Sign up to receive sprecial offers!</span>
                     <ul class="social-links">
-                        <li><a href="#" title=""><i class="fab fa-behance"></i></a></li>
-                        <li><a href="#" title=""><i class="fab fa-instagram"></i></a></li>
-                        <li><a href="#" title=""><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="https://www.pinterest.fr/carolinesebrien94/" title="" target="_blank"><i class="fab fa-pinterest-p"></i></a></li>
+                        <li><a href="https://www.instagram.com/cs_interieurs/?hl=fr" title="" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                        <li><a href="#" title="" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="#" title="" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+                        <li><a href="#" title="" target="_blank"><i class="fab fa-twitter"></i></a></li>
                     </ul><!--social-links end-->
                 </div><!--widget-info end-->
             </div>
@@ -49,9 +51,9 @@
                         <div class="widget widget-contact text-right">
                             <h3 class="widget-title">{{ site.data.i18n.footer[page.lang].contactus }}</h3>
                             <ul class="ft-links">
-                                <li>{{ site.data.i18n.footer[page.lang].address }}</li>
-                                <li>{{ site.data.i18n.footer[page.lang].phone }}</li>
-                                <li><a href="mailto:{{ site.data.i18n.footer[page.lang].email }}" title="">{{ site.data.i18n.footer[page.lang].email }}</a></li>
+                                <li>{{ site.data.i18n.contact[page.lang].address }}</li>
+                                <li>{{ site.data.i18n.contact[page.lang].phone }}</li>
+                                <li><a href="mailto:{{ site.data.i18n.contact[page.lang].email }}" title="">{{ site.data.i18n.contact[page.lang].email }}</a></li>
                             </ul><!--ft-links end-->
                         </div><!--widget-contact end-->
                     </div>
