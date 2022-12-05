@@ -191,5 +191,13 @@ soon:
     title: Prochainement
     subtitle: Découvrez bientôt nos<br/>prestations et réalisations<br/>en décoration d'intérieur
 
-
+error:
+  en:
+    title: Une erreur est survenue
+    subtitle: Vous pouvez revenir à la page d'accueil en cliquant sur le bouton ci-dessous
+    button: Revenir à l'accueil
+  fr:
+    title: Une erreur est survenue
+    subtitle: Vous pouvez revenir à la page d'accueil en cliquant sur le bouton ci-dessous
+    button: Revenir à l'accueil
 

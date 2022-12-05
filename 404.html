@@ -1,6 +1,6 @@
 ---
 layout: null
-title: "404"
+title: "La page que vous cherchez n'existe pas"
 ---
 <html lang="en">
 {% include head.markdown %}
@@ -24,9 +24,9 @@ title: "404"
 					<div class="col-xl-6">
 						<div class="error-text">
 							<img src="{{ site.baseurl }}/assets/images/error.png" alt="">
-							<h2>Something has happened...</h2>
-							<p>This page is missing or you assembled the link incorrectly. Try again or come back</p>
-							<a href="#" title="" class="lnk-default"> <i class="la la-arrow-left"></i> Go Back <span></span> </a>
+							<h2>{{ site.data.i18n.error[page.lang].title }}</h2>
+							<p>{{ site.data.i18n.error[page.lang].subtitle }}</p>
+							<a href="/" title="" class="lnk-default"> <i class="la la-arrow-left"></i> {{ site.data.i18n.error[page.lang].button }} <span></span> </a>
 						</div><!--error-text end-->
 					</div>
 				</div><!--error-content end-->

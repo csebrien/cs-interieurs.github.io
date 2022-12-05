@@ -7,7 +7,6 @@ permalink: /fr/contactez_nous # change corresponding i18n path variable if perma
 <html lang="en">
 {% include head.markdown %}
 
-
 <body>
 
 	{% include page-loading.markdown %}
@@ -146,11 +145,12 @@ permalink: /fr/contactez_nous # change corresponding i18n path variable if perma
 
 
 {% include scripts.markdown %}
+
 <script src="https://www.google.com/recaptcha/api.js?render=6LdC5FcjAAAAABzm0IjJdAbPZfKkwHi0e6FzgtDT"></script>
 <script>
 	grecaptcha.ready(function () {
 		grecaptcha.execute('6LdC5FcjAAAAABzm0IjJdAbPZfKkwHi0e6FzgtDT', {action: 'submit'}).then(function (token) {
-			console.info("got token: " + token);
+			#console.info("got token: " + token);
 			document.getElementById('g-recaptcha-response').value = token;
 		});
 	});

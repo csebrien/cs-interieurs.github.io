@@ -39,11 +39,6 @@
             <li><a href="#" title="" target="_blank"><i class="fab fa-twitter"></i></a></li>
         </ul>
 
-         {% if page.code != "soon" %}
-        <div class="contact-head-info">
-            <a href="tel:0663271829" title="" style="font-size: 20px;" >+33 6 63271829</a>
-        </div><!--contact-head-info end-->
-        {% endif %}
         <div class="menu-btnn">
             <div class="menu-btn">
                 <span class="bar1"></span>
