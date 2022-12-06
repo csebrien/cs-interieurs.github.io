@@ -201,3 +201,8 @@ error:
     subtitle: Vous pouvez revenir à la page d'accueil en cliquant sur le bouton ci-dessous
     button: Revenir à l'accueil
 
+legal:
+  en:
+    path: mentions_legales
+  fr:
+    path: mentions_legales

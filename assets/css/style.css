@@ -2819,6 +2819,11 @@ select {
 	background-repeat: no-repeat;
 	background-position: center right -10%;
 }
+.legal-page {
+	padding: 20px 0;
+	background-repeat: no-repeat;
+	background-position: center right -10%;
+}
 .error-text .lnk-default {
 	padding: 0 65px 0 50px;
 }
@@ -2827,7 +2832,35 @@ select {
 	padding-right: 10px;
 }
 
-
+.legal-text > h2 {
+	color: #1c202d;
+	font-size: 20px;
+	font-weight: 700;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.legal-text > h3 {
+	color: #1c202d;
+	font-size: 18px;
+	font-weight: 500;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.legal-text > h4 {
+	color: #1c202d;
+	font-size: 17px;
+	font-weight: 300;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.legal-text p {
+	color: #60626c;
+	font-size: 14px;
+	line-height: 34px;
+	font-weight: 500;
+	max-width: 100%;
+	margin-bottom: 5px;
+}
 
 
 /* HEADER SEARCH MENU */

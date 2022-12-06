@@ -26,7 +26,7 @@
     <div class="bottom-footer">
         
         <ul class="btm-links">
-            <li><a href="#" title="">{{ site.data.i18n.footer[page.lang].legal }}</a></li>
+            <li><a href="{{ site.baseurl }}/{{ page.lang }}/{{ site.data.i18n.legal[page.lang].path }}" title="">{{ site.data.i18n.footer[page.lang].legal }}</a></li>
         </ul><!--btm-links end-->
         <div class="clearfix"></div>
     </div><!--bottom-footer end-->
