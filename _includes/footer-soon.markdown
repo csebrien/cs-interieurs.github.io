@@ -12,9 +12,9 @@
                         <div class="widget widget-contact text-right">
                             <h3 class="widget-title">{{ site.data.i18n.footer[page.lang].contactus }}</h3>
                             <ul class="ft-links">
-                                <li>{{ site.data.i18n.footer[page.lang].address }}</li>
-                                <li>{{ site.data.i18n.footer[page.lang].phone }}</li>
-                                <li><a href="mailto:{{ site.data.i18n.footer[page.lang].email }}" title="">{{ site.data.i18n.footer[page.lang].email }}</a></li>
+                                <li>{{ site.data.i18n.contact[page.lang].address }}</li>
+                                <li>{{ site.data.i18n.contact[page.lang].phone }}</li>
+                                <li><a href="mailto:{{ site.data.i18n.contact[page.lang].email }}" title="">{{ site.data.i18n.contact[page.lang].email }}</a></li>
                             </ul><!--ft-links end-->
                         </div><!--widget-contact end-->
                     </div>
