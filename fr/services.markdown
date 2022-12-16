@@ -43,12 +43,12 @@ permalink: /fr/nos_prestations # change corresponding i18n path variable if perm
 				<div class="svs-section">
 					<div class="svs-item">
 						<div class="svs-img">
-							<img src="{{ site.baseurl }}/assets/images/images_prestations_570x465_1.png" alt="" class="w-100">
+							<a href="{{ site.baseurl }}/{{ page.lang }}/{{ site.data.i18n.services[page.lang].benefit1_path }}" title="" class="lnk-default2"><img src="{{ site.baseurl }}/assets/images/images_prestations_570x465_1.png" alt="" class="w-100"></a>
 						</div>
 						<div class="svss-info">
-							<h3><a href="#" title="">{{ site.data.i18n.services[page.lang].section1_benefit1_title }}</a></h3>
+							<h3><a href="{{ site.baseurl }}/{{ page.lang }}/{{ site.data.i18n.services[page.lang].benefit1_path }}" title="">{{ site.data.i18n.services[page.lang].section1_benefit1_title }}</a></h3>
 							<p>{{ site.data.i18n.services[page.lang].section1_benefit1_description }}</p>
-							<a href="#" title="" class="lnk-default2">{{ site.data.i18n.services[page.lang].section1_benefit1_button }} <i class="la la-arrow-right"></i></a>
+							<a href="{{ site.baseurl }}/{{ page.lang }}/{{ site.data.i18n.services[page.lang].benefit1_path }}" title="" class="lnk-default2">{{ site.data.i18n.services[page.lang].section1_benefit1_button }} <i class="la la-arrow-right"></i></a>
 						</div>
 					</div><!--svs-item end-->
 					<div class="svs-item">
@@ -73,7 +73,7 @@ permalink: /fr/nos_prestations # change corresponding i18n path variable if perm
 					</div><!--svs-item end-->
 					<div class="svs-item">
 						<div class="svs-img">
-							<img src="{{ site.baseurl }}/assets/images/images_prestations_570x465_3.png" alt="" class="w-100">
+							<img src="{{ site.baseurl }}/assets/images/images_prestations_570x465_4.png" alt="" class="w-100">
 						</div>
 						<div class="svss-info">
 							<h3><a href="#" title="">{{ site.data.i18n.services[page.lang].section1_benefit4_title }}</a></h3>

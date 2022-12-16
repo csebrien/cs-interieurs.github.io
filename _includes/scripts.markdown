@@ -1,11 +1,13 @@
-<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-<script src="{{ site.baseurl }}/assets/js/popper.js"></script>
-<script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
-<script src="{{ site.baseurl }}/assets/js/plugin/slick.min.js"></script>
-<script src="{{ site.baseurl }}/assets/js/plugin/html5lightbox.js"></script>
-<script src="{{ site.baseurl }}/assets/js/plugin/counter.js"></script>
-<script src="{{ site.baseurl }}/assets/js/placeholdem.min.js"></script>
-<script src="{{ site.baseurl }}/assets/js/script.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/popper.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/plugin/slick.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/plugin/html5lightbox.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/plugin/counter.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/placeholdem.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/script.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/date.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/date-fr-FR.js"></script>
 <!--script
     type="text/javascript"
     async defer
@@ -18,6 +20,8 @@
 document.addEventListener('DOMContentLoaded', function () {
 cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palette":"dark","language":"fr","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"page_refresh_confirmation_buttons":false,"website_name":"cs-interieurs","website_privacy_policy_url":"https://cs-interieurs.com/fr/privacy-policy"});
 });
+
+document.getElementById('current-date').innerHTML = Date.today().toString("dd MMMM yyyy");
 </script>
 
 <noscript>Free cookie consent management tool by <a href="https://www.termsfeed.com/" rel="nofollow noopener">TermsFeed Policy Generator</a></noscript>

@@ -3,7 +3,7 @@
 	<meta charset="UTF-8">
 	<title>{{ page.title }}</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Mint Multipurpose Agency Website" />
+	<meta name="description" content="{{ page.title }}" />
 	<meta name="author" content="George_fx">
 	<meta name="keywords" content="" />
 	<link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.png">

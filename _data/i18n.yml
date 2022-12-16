@@ -118,7 +118,7 @@ services:
     subtitle: Prestations
     subtitle2: Venez découvrir nos services
     section1_title: Découvrez nos prestations
-    section1_description: voir ci-dessous
+    section1_description: De la visite conseil au projet d’aménagement et de décoration d’intérieur, choisissez la prestation qui vous convient et répond à vos besoins
     section1_benefit1_title: Visite conseil
     section1_benefit1_description: |
                                     Vous souhaitez bénéficier de conseils déco sur le choix des couleurs,
@@ -141,6 +141,34 @@ services:
                                     Vous souhaitez vendre plus rapidement et facilement votre bien immobilier et à son juste prix? 
                                     La formule Home staging permet de mettre en valeur votre bien pour faciliter la vente
     section1_benefit4_button: En savoir plus
+    benefit1_path: visite_conseil
+    benefit1_title: Visite Conseil
+    benefit1_subtitle: Du renouveau pour votre intérieur
+    benefit1_text1: |
+                    Changez d’ambiance ou optimiser l’agencement d’une pièce ? Nous vous accompagnons dans le choix des couleurs, du mobilier, 
+                    des luminaires ou des matériaux ? <br/><br/>
+                    Pendant 2h à votre domicile, nous vous apportons des solutions personnalisées à votre intérieur, à votre façon de vivre, à vos goûts, 
+                    et fonction de votre budget.
+    benefit1_text2:  Le déroulé de la visite conseil ?
+    benefit1_text3: |
+                    - Visite et état des lieux : étude des atouts et contraintes.<br/>
+                    - Ecoute et échanges sur vos problématiques : vos besoins et attentes.<br/>
+                    - Nous recherchons ensemble le style et l’ambiance qui vous ressemblent.<br/>
+                    - Nous vous guidons ensuite dans le choix du mobilier, accessoires, couleurs et matériaux qui permettront de sublimer votre intérieur.<br/>
+                    - Nous vous donnons également tous les conseils et astuces de décoration dont vous avez besoin.<br/>
+                    - A l’issus du rendez-vous, nous vous envoyons par mail un compte rendu écrit qui reprend toutes les recommandations données lors de 
+                    notre rencontre.<br/>
+                    
+    benefit1_text4:  Vous avez les clés pour mener à bien vos projets
+    benefit1_text5: "Tarif : 199€* les 2h (remise de compte rendu offert)"
+    benefit1_text6: 60€ l’heure supplémentaire
+    benefit1_text7: |
+                    * Sur la base d’une pièce (une cuisine ouverte sur un séjour correspond à 2 pièces). Tarif dégressif au-delà d’une pièce.<br/>
+                    Règlement sur place à l’issue de la visite. Prestation Paris et petite couronne.<br/>
+                    Frais de déplacement facturés au-delà de 30km.
+
+
+
 
 portfolio:
   en:
