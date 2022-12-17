@@ -1,8 +1,8 @@
 --- 
 layout: null 
-code: visite_conseil 
-title: "Visite Conseil" 
-permalink: /fr/visite_conseil # change corresponding i18n path variable if permalink changed here! 
+code: home_staging 
+title: "Home Staging" 
+permalink: /fr/home_staging  # change corresponding i18n path variable if permalink changed here! 
 ---
 <html lang="en">
  {% include head.markdown %} 
@@ -17,7 +17,7 @@ permalink: /fr/visite_conseil # change corresponding i18n path variable if perma
     <div class="container">
       <div class="pager-info">
         <div class="pg-title-head">
-          <h2 class="m-0">{{ site.data.i18n.services[page.lang].benefit1_title }}</h2>
+          <h2 class="m-0">{{ site.data.i18n.services[page.lang].benefit4_title }}</h2>
         </div>
       </div>
       <div class="pger-imgs no-seduo w-auto">
@@ -35,16 +35,23 @@ permalink: /fr/visite_conseil # change corresponding i18n path variable if perma
             <div class="blog-post single">
               <div class="blog-info">
                 <span id="current-date">Jul 21, 2020</span>
-                <h2 class="blog-title">{{ site.data.i18n.services[page.lang].benefit1_subtitle }}</h2>
-                <p>{{ site.data.i18n.services[page.lang].benefit1_text1 }}</p>
-                <p>{{ site.data.i18n.services[page.lang].benefit1_text2 }}</p>
-                <p>{{ site.data.i18n.services[page.lang].benefit1_text3 }}</p>
-                <p>{{ site.data.i18n.services[page.lang].benefit1_text4 }}</p>
+                <h2 class="blog-title">{{ site.data.i18n.services[page.lang].benefit4_subtitle }}</h2>
+                <p>{{ site.data.i18n.services[page.lang].benefit4_text1 }}</p>
+                <p>{{ site.data.i18n.services[page.lang].benefit4_text2 }}</p>
+                <p>{{ site.data.i18n.services[page.lang].benefit4_text3 }}</p>
+                <p>{{ site.data.i18n.services[page.lang].benefit4_text4 }}</p>
+                <p>{{ site.data.i18n.services[page.lang].benefit4_text5 }}</p>
+                <p>{{ site.data.i18n.services[page.lang].benefit4_text6 }}</p>
+                <p>{{ site.data.i18n.services[page.lang].benefit4_text7 }}</p>
+                <p>{{ site.data.i18n.services[page.lang].benefit4_text8 }}</p>
+                <p>{{ site.data.i18n.services[page.lang].benefit4_text9 }}</p>
+                <p>{{ site.data.i18n.services[page.lang].benefit4_text10 }}</p>
+                <p>{{ site.data.i18n.services[page.lang].benefit4_text11 }}</p>
+                <p>{{ site.data.i18n.services[page.lang].benefit4_text12 }}</p>
+                <p>{{ site.data.i18n.services[page.lang].benefit4_text13 }}</p>
+                <p>{{ site.data.i18n.services[page.lang].benefit4_text14 }}</p>
+                <p>{{ site.data.i18n.services[page.lang].benefit4_text15 }}</p>
                 <img src="/assets/images/images_prestations_570x465_5.png" alt="871x376" class="w-100">
-
-                <p><b>{{ site.data.i18n.services[page.lang].benefit1_text5 }}</b></p>
-                <p><b>{{ site.data.i18n.services[page.lang].benefit1_text6 }}</b></p>
-                <p><b>{{ site.data.i18n.services[page.lang].benefit1_text7 }}</b></p>
               </div>
               <ul class="tags_list">
                 <li>

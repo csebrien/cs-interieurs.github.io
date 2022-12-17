@@ -166,9 +166,108 @@ services:
                     * Sur la base d’une pièce (une cuisine ouverte sur un séjour correspond à 2 pièces). Tarif dégressif au-delà d’une pièce.<br/>
                     Règlement sur place à l’issue de la visite. Prestation Paris et petite couronne.<br/>
                     Frais de déplacement facturés au-delà de 30km.
+    benefit2_path: amenagement_et_decoration_d_interieur
+    benefit2_title: Aménagement et décoration d'intérieur
+    benefit2_subtitle: Dossier complet de décoration d’intérieur et accompagnement
+    benefit2_text1: |
+                    Vous souhaitez un accompagnement sur mesure dans la réalisation de votre projet d’aménagement d’intérieur avec ou sans le suivi et la 
+                    mise en œuvre du chantier ?
+                    <br/><br/>
+                    Nous vous assurons des solutions personnalisées Nous établissons un cahier des charges en tenant compte de vos besoins et attentes ainsi 
+                    que de votre budget.
+    benefit2_text2: Notre mission
+    benefit2_text3: |
+                    En fonction de vos contraintes techniques, de vos habitudes et de vos souhaits, nous vous proposons des solutions optimisées et adaptées 
+                    à votre budget.
+                    <br/><br/>
+                    Matières, couleurs et jeux de volumes s’associent pour créer une ambiance à votre image. La circulation et la luminosité sont optimisées 
+                    et nous intégrons le mobilier et les accessoires pour parfaire les lieux.
+                    <br/><br/>
+                    Nous vous présentons le projet au fur et à mesure de son avancée et en autant de rendez-vous que nécessaires. 
 
+    benefit2_text4: "Le contenu du dossier de décoration d’intérieur :"
+    benefit2_text5: |
+                    - Etat des lieux sur site de votre intérieur : analyse des atouts et contraintes.<br/>
+                    - Relevé de mesures et prise de photos.<br/>
+                    - Echanges, écoute, sur vos besoins et attentes, vos goûts, vos habitudes et de votre budget.<br/>
+                    - Recherche, propositions et validation de votre projet aménagé et décoré.<br/>
+                    <br/>
+                    Remise d’un dossier complet comprenant :<br/>
+                    - Un compte rendu détaillé de l’état existant avec ses atouts et contraintes, vos attentes et notre parti pris décoratif<br/>
+                    - Un plan côté à l’état existant<br/>
+                    - Un plan côté à l’état projeté avec la position du mobilier<br/>
+                    - Coupe, élévation, plan électrique, plan plomberie, design de mobilier sur mesure en 2D et 3D<br/>
+                    - Une planche d’ambiance<br/>
+                    - Une planche shopping avec sélection de mobilier, accessoires, matériaux et couleurs<br/>
+                    - Une liste shopping détaillée avec les références, quantités et prix de chaque article qui respecte le coût global<br/>
+                    - Perspectives 3D photo réaliste texturées pour vous projeter dans votre futur intérieur
+    benefit2_text6: |
+                    Pour la réalisation de vos travaux, nous pouvons faire le suivi de chantier et l’aménagement des lieux. Une prestation clés en mains !
+    benefit2_text7: "Tarif : sur devis"
+    benefit2_text8: |
+                    Prestation Paris et petite couronne<br/>Frais de déplacement facturés au-delà de 30km
+    benefit3_path: visualisation_3d
+    benefit3_title: Visualisation 3D
+    benefit3_subtitle: Modélisation 3D photo réaliste pour Professionnels
+    benefit3_text1: |
+                    Nous modélisons vos projets à partir de vos plans 2D, puis à l’aide de nos logiciels de photos réalisme nous rendront vos projets attrayants afin de mieux 
+                    présenter ou vendre vos projets ou biens immobiliers.
+    benefit3_text2: A qui s'adresse nos services de rendus 3D ?
+    benefit3_text3: Agences immobilières, promoteurs et artisans
+    benefit3_text4: |
+                    Aidez vos clients à se projeter dans leur nouveau « chez eux ». Les rendus 3D photo réaliste des différentes pièces ainsi que le plan 3D du bien immobilier 
+                    pour faciliter vos ventes.
+    benefit3_text5: "Tarif : à partir de 189 € pour 3 à 4 vues"
+    benefit3_text6: |
+                    selon complexité du projet et nombre de pièces à réaliser                   
+    benefit4_path: home_staging
+    benefit4_title: Home Staging
+    benefit4_subtitle: Vous souhaitez vendre plus rapidement votre bien immobilier et au meilleur prix ?
+    benefit4_text1: |
+                    Notre mission est de trouver les éléments qui freinent les acheteurs potentiels et d’y apporter les réponses afin de déclencher l’achat coup de cœur. 
+                    Nous vous apporterons les solutions et pour valoriser votre bien, à savoir :<br/>
+                    -	réduire au maximum ses contraintes<br/>
+                    -	valoriser les volumes et fluidifier la circulation<br/>
+                    -	gagner en luminosité<br/>
+                    -	désencombrer, dépersonnaliser et harmoniser le tout<br/>
+                    -	lui donner une décoration actuelle neutre et moderne.<br/>
 
-
+    benefit4_text2: "Pour répondre au plus près de votre demande et de votre besoin, nous vous proposons 3 formules :"
+    benefit4_text3: Diagnostic home staging
+    benefit4_text4: |
+                    Lors d’un rendez vous de 2h sur le lieu du bien concerné, nous vous apportons des solutions qui permettront de valoriser votre maison ou appartement 
+                    à vendre.
+    benefit4_text5: Comment se déroule la prestation ?
+    benefit4_text6: |
+                    -	Visite sur site avec état des lieux de votre bien<br/>
+                    -	Analyse des points forts et des points faibles<br/>
+                    -	Conseils sur la mise en valeur de votre bien et apport de solutions et astuces pour créer une ambiance qui plaise au plus grand nombre.
+    benefit4_text7: |
+                    A la suite du rendez-vous, nous vous enverrons par mail un compte rendu détaillé reprenant les recommandations évoquées lors de notre entretien.<br/>
+                    Vous pourrez ainsi gérer vous même la transformation de votre bien sur la base de nos conseils.
+    benefit4_text8: "Tarif : 199€* les 2H (Remise de compte rendu inclus)"
+    benefit4_text9: |
+                    60€ l’heure supplémentaire
+    benefit4_text10: Book complet home staging
+    benefit4_text11: |
+                     Cette formule inclut le diagnostic Home Staging et vous facilitera la mise en œuvre de nos préconisations avec la remise d’un dossier complet.
+    benefit4_text12: Comment se déroule la prestation ?
+    benefit4_text13: Que contient cette prestation ?
+    benefit4_text14: |
+                    -	Visite sur site et état des lieux détaillé de votre bien : prise de côtes et photos<br/>
+                    -	Analyse des points forts et des points faibles<br/>
+                    Remise d’un book contenant :<br/>
+                    -	Un plan d’agencement<br/>
+                    -	Une planche d’ambiance<br/>
+                    -	Une planche shopping avec sélection de mobilier, accessoires et matériaux<br/>
+                    -	Une liste shopping avec référence, quantité et prix de chaque article<br/>
+                    -	Une ou deux perspectives 3D photo réaliste permettant de visualiser les changements<br/>
+    benefit4_text15: "Tarif : sur devis"
+    benefit4_text16: |
+                    Prestation Paris et petite couronne – Frais de déplacement facturés au-delà de 30km<br/><br/>
+                    * Les tarifs du diagnostic home staging sont sur la base d’une pièce (une cuisine ouverte sur un séjour correspond à 2 pièces).<br/>
+                    Tarif dégressif au-delà d’une pièce. Règlement sur place à l’issue de la visite.<br/>
+                    Prestation Paris et petite couronne – Frais de déplacement facturés au delà de 30km
 
 portfolio:
   en:

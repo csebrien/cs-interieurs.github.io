@@ -1,8 +1,8 @@
 --- 
 layout: null 
-code: visite_conseil 
-title: "Visite Conseil" 
-permalink: /fr/visite_conseil # change corresponding i18n path variable if permalink changed here! 
+code: visualisation_3d 
+title: "Visualisation 3D" 
+permalink: /fr/visualisation_3d  # change corresponding i18n path variable if permalink changed here! 
 ---
 <html lang="en">
  {% include head.markdown %} 
@@ -17,7 +17,7 @@ permalink: /fr/visite_conseil # change corresponding i18n path variable if perma
     <div class="container">
       <div class="pager-info">
         <div class="pg-title-head">
-          <h2 class="m-0">{{ site.data.i18n.services[page.lang].benefit1_title }}</h2>
+          <h2 class="m-0">{{ site.data.i18n.services[page.lang].benefit3_title }}</h2>
         </div>
       </div>
       <div class="pger-imgs no-seduo w-auto">
@@ -35,16 +35,14 @@ permalink: /fr/visite_conseil # change corresponding i18n path variable if perma
             <div class="blog-post single">
               <div class="blog-info">
                 <span id="current-date">Jul 21, 2020</span>
-                <h2 class="blog-title">{{ site.data.i18n.services[page.lang].benefit1_subtitle }}</h2>
-                <p>{{ site.data.i18n.services[page.lang].benefit1_text1 }}</p>
-                <p>{{ site.data.i18n.services[page.lang].benefit1_text2 }}</p>
-                <p>{{ site.data.i18n.services[page.lang].benefit1_text3 }}</p>
-                <p>{{ site.data.i18n.services[page.lang].benefit1_text4 }}</p>
+                <h2 class="blog-title">{{ site.data.i18n.services[page.lang].benefit3_subtitle }}</h2>
+                <p>{{ site.data.i18n.services[page.lang].benefit3_text1 }}</p>
+                <p>{{ site.data.i18n.services[page.lang].benefit3_text2 }}</p>
+                <p>{{ site.data.i18n.services[page.lang].benefit3_text3 }}</p>
+                <p>{{ site.data.i18n.services[page.lang].benefit3_text4 }}</p>
+                <p><b>{{ site.data.i18n.services[page.lang].benefit3_text5 }}</b></p>
+                <p><b>{{ site.data.i18n.services[page.lang].benefit3_text6 }}</b></p>
                 <img src="/assets/images/images_prestations_570x465_5.png" alt="871x376" class="w-100">
-
-                <p><b>{{ site.data.i18n.services[page.lang].benefit1_text5 }}</b></p>
-                <p><b>{{ site.data.i18n.services[page.lang].benefit1_text6 }}</b></p>
-                <p><b>{{ site.data.i18n.services[page.lang].benefit1_text7 }}</b></p>
               </div>
               <ul class="tags_list">
                 <li>
