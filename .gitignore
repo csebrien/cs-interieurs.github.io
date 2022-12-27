@@ -5,6 +5,7 @@ _site
 vendor
 assets/images/photos-libres/*
 assets/images/pinterest/*
+assets/images/images réalisations/*
 old/*
 todo.txt
 start-server.bat

@@ -24,10 +24,10 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 				<div class="pager-info">
 					<ul class="breadcrumb">
 						<li><a href="#" title="">Home</a></li>
-						<li><span>Portfolio</span></li>
+						<li><span>Blog</span></li>
 					</ul><!--breadcrumb end-->
-					<h2>Portfolio</h2>
-					<span>Our work cases</span>
+					<h2>Blog</h2>
+					<span>Our blog and news</span>
 				</div>
 				<div class="pger-imgs style2">
 					<div class="abt-imgz">
@@ -38,94 +38,107 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 			</div>
 		</section><!--pager-section end-->
 
-		<section class="page-content">
+		<section class="block">
 			<div class="container">
-				<div class="portfolio-page">
-					<div class="section-title">
-						<h3 class="sub-title w-100">See our best <br /> projects</h3>
-						<p>Since our humble beginnings in 2006, We has significantly expanded its our collection of exclusive lamps. Today we are proud to present you our best lighting design solutions. Sit amet just consectetur adipiscing elit. Today we are proud to present you our best </p>
-					</div><!--section-title end-->
-					<div class="options">
-						<div class="option-isotop text-left">
-							<ul id="filter" class="option-set filters-nav" data-option-key="filter">
-								<li><a data-option-value="*" class="selected">Interior design</a></li>
-								<li><a data-option-value=".architecture">Architecture design</a></li>
-								<li><a data-option-value=".commerical">Commercial interior design</a></li>
-							</ul>
-						</div>
-					</div><!--isotope options end-->
+				<h3 class="sub-title">Our Blog and News</h3><!--sub-title end-->
+				<div class="blog-posts blog-page">
 					<div class="row">
-						<div class="masonary">
-							<div class="col-lg-4 col-md-4 col-sm-6 architecture">
-								<div class="project-item">
-									<img src="https://via.placeholder.com/345x453" alt="">
-									<div class="project-info">
-										<h3><a href="portfolio-details.html" title="">Living room</a></h3>
-										<span>59 projects</span>
-									</div><!--project-info end-->
-								</div><!--project-item end-->
-							</div>
-							<div class="col-lg-4 col-md-4 col-sm-6 commerical">
-								<div class="project-item">
-									<img src="https://via.placeholder.com/345x453" alt="">
-									<div class="project-info">
-										<h3><a href="portfolio-details.html" title="">Kitchen</a></h3>
-										<span>75 projects</span>
-									</div><!--project-info end-->
-								</div><!--project-item end-->
-							</div>
-							<div class="col-lg-4 col-md-4 col-sm-6 commerical architecture">
-								<div class="project-item">
-									<img src="https://via.placeholder.com/345x453" alt="">
-									<div class="project-info">
-										<h3><a href="portfolio-details.html" title="">Commercial</a></h3>
-										<span>49 projects</span>
-									</div><!--project-info end-->
-								</div><!--project-item end-->
-							</div>
-							<div class="col-lg-4 col-md-4 col-sm-6 architecture">
-								<div class="project-item">
-									<img src="https://via.placeholder.com/345x453" alt="">
-									<div class="project-info">
-										<h3><a href="portfolio-details.html" title="">Living room</a></h3>
-										<span>59 projects</span>
-									</div><!--project-info end-->
-								</div><!--project-item end-->
-							</div>
-							<div class="col-lg-4 col-md-4 col-sm-6 commerical">
-								<div class="project-item">
-									<img src="https://via.placeholder.com/345x453" alt="">
-									<div class="project-info">
-										<h3><a href="portfolio-details.html" title="">Living room</a></h3>
-										<span>59 projects</span>
-									</div><!--project-info end-->
-								</div><!--project-item end-->
-							</div>
-							<div class="col-lg-4 col-md-4 col-sm-6 architecture">
-								<div class="project-item">
-									<img src="https://via.placeholder.com/345x453" alt="">
-									<div class="project-info">
-										<h3><a href="portfolio-details.html" title="">Kitchen</a></h3>
-										<span>75 projects</span>
-									</div><!--project-info end-->
-								</div><!--project-item end-->
-							</div>
-						</div><!--masonary end-->
+						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
+							<div class="blog-post">
+								<div class="blog-thumbnail">
+									<img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_1.png" alt="">
+									<span class="category">Interior design</span>
+								</div>
+								<div class="blog-info">
+									<span>Jul 21, 2020</span>
+									<h2 class="blog-title"><a href="blog-single.html" title="">Types of home</a></h2>
+									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
+									<a href="/fr/chambre_bebe" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
+								</div>
+							</div><!--blog-post end-->
+						</div>
+						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
+							<div class="blog-post">
+								<div class="blog-thumbnail">
+									<img src="https://via.placeholder.com/473x373" alt="">
+									<span class="category">Interior design</span>
+								</div>
+								<div class="blog-info">
+									<span>Jul 21, 2020</span>
+									<h2 class="blog-title"><a href="blog-single.html" title="">Purchase of furniture</a></h2>
+									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
+									<a href="blog-single.html" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
+								</div>
+							</div><!--blog-post end-->
+						</div>
+						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
+							<div class="blog-post">
+								<div class="blog-thumbnail">
+									<img src="https://via.placeholder.com/473x373" alt="">
+									<span class="category">Interior design</span>
+								</div>
+								<div class="blog-info">
+									<span>Jul 21, 2020</span>
+									<h2 class="blog-title"><a href="blog-single.html" title="">Kitchen design ideas</a></h2>
+									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
+									<a href="blog-single.html" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
+								</div>
+							</div><!--blog-post end-->
+						</div>
+						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
+							<div class="blog-post">
+								<div class="blog-thumbnail">
+									<img src="https://via.placeholder.com/473x373" alt="">
+									<span class="category">Interior design</span>
+								</div>
+								<div class="blog-info">
+									<span>Jul 21, 2020</span>
+									<h2 class="blog-title"><a href="blog-single.html" title="">Types of home</a></h2>
+									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
+									<a href="blog-single.html" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
+								</div>
+							</div><!--blog-post end-->
+						</div>
+						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
+							<div class="blog-post">
+								<div class="blog-thumbnail">
+									<img src="https://via.placeholder.com/473x373" alt="">
+									<span class="category">Interior design</span>
+								</div>
+								<div class="blog-info">
+									<span>Jul 21, 2020</span>
+									<h2 class="blog-title"><a href="blog-single.html" title="">Purchase of furniture</a></h2>
+									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
+									<a href="blog-single.html" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
+								</div>
+							</div><!--blog-post end-->
+						</div>
+						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
+							<div class="blog-post">
+								<div class="blog-thumbnail">
+									<img src="https://via.placeholder.com/473x373" alt="">
+									<span class="category">Interior design</span>
+								</div>
+								<div class="blog-info">
+									<span>Jul 21, 2020</span>
+									<h2 class="blog-title"><a href="blog-single.html" title="">Kitchen design ideas</a></h2>
+									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
+									<a href="blog-single.html" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
+								</div>
+							</div><!--blog-post end-->
+						</div>
 					</div>
-					<div class="pagination-mint">
-						<nav aria-label="Page navigation example">
-							<ul class="pagination">
-						    	<li class="page-item"><a class="page-link prev" href="#"><i class="fa fa-angle-left"></i>Previous</a></li>
-						    	<li class="page-item"><a class="page-link active" href="#">1</a></li>
-						    	<li class="page-item"><a class="page-link" href="#">2</a></li>
-						    	<li class="page-item"><a class="page-link" href="#">3</a></li>
-						    	<li class="page-item"><a class="page-link next" href="#">Next <i class="fa fa-angle-right"></i></a></li>
-						  	</ul>
-						</nav>
-					</div>
-				</div><!--portfolio-page end-->
+				</div><!--blog-posts end-->
+				<div class="mint-pagination">
+					<ul class="paginated">
+						<li>
+							<a href="#" title=""><i class="fa fa-angle-left"></i></a>
+							<a href="#" title=""><i class="fa fa-angle-right"></i></a>
+						</li>
+					</ul>
+				</div><!--mint-pagination end-->
 			</div>
-		</section><!--page-content end-->
+		</section>
 
 		<footer>
 			{% include footer.markdown %}
@@ -136,6 +149,7 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 
 
 {% include scripts.markdown %}
+
 
 </body>
 
