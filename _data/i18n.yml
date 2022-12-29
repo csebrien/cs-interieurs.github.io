@@ -63,18 +63,19 @@ home:
   fr:
     path: index.html
     subtitle: Design et décoration d'intérieur
-    subtitle2: Changez de décor
+    subtitle2: Besoin de changer de décor !
     mainbutton: Nos dernieres réalisations
     section1_title: Caroline Sebrien, Designer d'espace et décoratrice
     section1_subtitle: | 
                         L'agence CS intérieurs répond à vos besoins d'aménagement d'intérieur et de décoration 
                         en vous apportant une expertise et des conseils personnalisées en fonction de vos besoins, 
-                        manières de vivre et de votre budget.
-                        Spécialisée en photo réalisme 3D, Nous mettons en perspective vos projets et contribuont à la 
-                        valorisation des biens auprès des agences immobilières.
-                        Passionnée et diplômée d’une école de design et d’arts appliqués,
-                        je mettrai toute ma créativité et mon sens de l’esthétisme à votre profit 
-                        pour sublimer votre intérieur qui se révèlera unique et à votre image.
+                        de votre façon de vivre et de votre budget.
+                        Nous mettons en perspective vos projets et contribuont à la  valorisation des biens auprès 
+                        des agences immobilières grâce aux visuels photos réalistes.
+                        Passionnée depuis toujours par la décoration , après 10 années en finance d'entreprise,
+                        j'entreprends une reconversion professionnelle et sors diplômée d’une école de design et d’arts appliqués.
+                        je mettrai toute ma créativité et mon professionnalisme à votre profit 
+                        pour sublimer votre intérieur et vous offrir un "home sweet home" qui vous ressemble.
     section1_button: En savoir plus
     section2_title: Notre savoir faire
     section2_button: Nos réalisations
@@ -116,20 +117,22 @@ services:
   fr:
     path: nos_prestations
     subtitle: Prestations
-    subtitle2: Venez découvrir nos services
+    subtitle2: Venez découvrir notre gamme de services en décoration d'intérieur
     section1_title: Découvrez nos prestations
-    section1_description: De la visite conseil au projet d’aménagement et de décoration d’intérieur, choisissez la prestation qui vous convient et répond à vos besoins
+    section1_description: De la visite conseil au projet de design d'espace et de décoration d’intérieur, choisissez la prestation qui vous convient et répond à vos besoins
     section1_benefit1_title: Visite conseil
     section1_benefit1_description: |
-                                    Vous souhaitez bénéficier de conseils déco sur le choix des couleurs,
-                                    matériaux... ou changer d’ambiance? Nous vous proposons une visite conseil de 2h à votre domicile 
-                                    qui vous permettra de donner une nouvelle vie à votre intérieur
+                                    Vous avez besoins de conseils déco pour choisir des matériaux, des revêtements,
+                                    les couleurs... ou simplement changer d’ambiance ? Lors d'une visite conseil de 2h à votre domicile 
+                                    nous vous aidons à changer de décor !
     section1_benefit1_button: En savoir plus
-    section1_benefit2_title: Aménagement et décoration d'intérieur
+    section1_benefit2_title: Design d'espace et décoration d'intérieur
     section1_benefit2_description: |
-                                    Vous envisagez de rénover ou de repenser la décoration ou l’aménagement de votre 
-                                    intérieur? Nous réalisons votre projet en vous proposant des solutions personnalisées 
-                                    à vos habitudes de vie
+                                    Vous avez pour projet de rénover ou de revoir la décoration ou l’aménagement de votre 
+                                    intérieur ? Nous vous proposons un dossier complet personnalisé pour réaliser vous même les changements 
+                                    dans votre intérieur. En complément, nous pouvons vous accompagner de l'idée à la réalisation des travaux
+                                    par des artisans selectionnés.
+                                   
     section1_benefit2_button: En savoir plus
     section1_benefit3_title: Visualisation 3D
     section1_benefit3_description: |
@@ -138,8 +141,8 @@ services:
     section1_benefit3_button: En savoir plus
     section1_benefit4_title: Home Staging
     section1_benefit4_description: |
-                                    Vous souhaitez vendre plus rapidement et facilement votre bien immobilier et à son juste prix? 
-                                    La formule Home staging permet de mettre en valeur votre bien pour faciliter la vente
+                                    Vous souhaitez vendre votre bien immobilier dans les meilleurs délais et au meilleur prix ? 
+                                    Le Home staging permettra à moindre coût de valoriser votre bien pour faciliter sa vente.
     section1_benefit4_button: En savoir plus
     benefit1_path: visite_conseil
     benefit1_title: Visite Conseil
@@ -147,12 +150,12 @@ services:
     benefit1_text1: |
                     Changez d’ambiance ou optimiser l’agencement d’une pièce ? Nous vous accompagnons dans le choix des couleurs, du mobilier, 
                     des luminaires ou des matériaux ? <br/><br/>
-                    Pendant 2h à votre domicile, nous vous apportons des solutions personnalisées à votre intérieur, à votre façon de vivre, à vos goûts, 
+                    Pendant 2h à votre domicile, nous vous apportons des solutions personnalisées, adaptées à votre mode de vie, à vos goûts, 
                     et fonction de votre budget.
-    benefit1_text2:  Le déroulé de la visite conseil ?
+    benefit1_text2:  Comment se déroule une visite conseil ?
     benefit1_text3: |
-                    - Visite et état des lieux : étude des atouts et contraintes.<br/>
-                    - Ecoute et échanges sur vos problématiques : vos besoins et attentes.<br/>
+                    - Visite et état des lieux : étude des atouts et contraintes des lieux.<br/>
+                    - Ecoute et échanges sur vos problématiques : vos besoins et vos attentes.<br/>
                     - Nous recherchons ensemble le style et l’ambiance qui vous ressemblent.<br/>
                     - Nous vous guidons ensuite dans le choix du mobilier, accessoires, couleurs et matériaux qui permettront de sublimer votre intérieur.<br/>
                     - Nous vous donnons également tous les conseils et astuces de décoration dont vous avez besoin.<br/>
@@ -167,13 +170,13 @@ services:
                     Règlement sur place à l’issue de la visite. Prestation Paris et petite couronne.<br/>
                     Frais de déplacement facturés au-delà de 30km.
     benefit2_path: amenagement_et_decoration_d_interieur
-    benefit2_title: Aménagement et décoration d'intérieur
-    benefit2_subtitle: Dossier complet de décoration d’intérieur et accompagnement
+    benefit2_title: Design d'espace et décoration d'intérieur
+    benefit2_subtitle: Book complet de décoration d’intérieur et accompagnement
     benefit2_text1: |
                     Vous souhaitez un accompagnement sur mesure dans la réalisation de votre projet d’aménagement d’intérieur avec ou sans le suivi et la 
                     mise en œuvre du chantier ?
                     <br/><br/>
-                    Nous vous assurons des solutions personnalisées Nous établissons un cahier des charges en tenant compte de vos besoins et attentes ainsi 
+                    Nous vous assurons des solutions personnalisées. Nous établissons un cahier des charges en tenant compte de vos besoins et attentes ainsi 
                     que de votre budget.
     benefit2_text2: Notre mission
     benefit2_text3: |
@@ -183,7 +186,7 @@ services:
                     Matières, couleurs et jeux de volumes s’associent pour créer une ambiance à votre image. La circulation et la luminosité sont optimisées 
                     et nous intégrons le mobilier et les accessoires pour parfaire les lieux.
                     <br/><br/>
-                    Nous vous présentons le projet au fur et à mesure de son avancée et en autant de rendez-vous que nécessaires. 
+                     
 
     benefit2_text4: "Le contenu du dossier de décoration d’intérieur :"
     benefit2_text5: |
@@ -192,15 +195,15 @@ services:
                     - Echanges, écoute, sur vos besoins et attentes, vos goûts, vos habitudes et de votre budget.<br/>
                     - Recherche, propositions et validation de votre projet aménagé et décoré.<br/>
                     <br/>
-                    Remise d’un dossier complet comprenant :<br/>
-                    - Un compte rendu détaillé de l’état existant avec ses atouts et contraintes, vos attentes et notre parti pris décoratif<br/>
+                    Remise d’un book complet comprenant :<br/>
+                    - Un compte rendu détaillé de l’état existant avec ses atouts et contraintes, vos attentes et orientations décoratives<br/>
                     - Un plan côté à l’état existant<br/>
-                    - Un plan côté à l’état projeté avec la position du mobilier<br/>
+                    - Un plan côté à l’état projeté<br/>
                     - Coupe, élévation, plan électrique, plan plomberie, design de mobilier sur mesure en 2D et 3D<br/>
                     - Une planche d’ambiance<br/>
                     - Une planche shopping avec sélection de mobilier, accessoires, matériaux et couleurs<br/>
-                    - Une liste shopping détaillée avec les références, quantités et prix de chaque article qui respecte le coût global<br/>
-                    - Perspectives 3D photo réaliste texturées pour vous projeter dans votre futur intérieur
+                    - Une liste shopping détaillée avec les références, quantités et prix de chaque article selectionné<br/>
+                    - Perspectives 3D photo réaliste pour vous mieux vous projeter
     benefit2_text6: |
                     Pour la réalisation de vos travaux, nous pouvons faire le suivi de chantier et l’aménagement des lieux. Une prestation clés en mains !
     benefit2_text7: "Tarif : sur devis"
@@ -222,26 +225,26 @@ services:
                     selon complexité du projet et nombre de pièces à réaliser                   
     benefit4_path: home_staging
     benefit4_title: Home Staging
-    benefit4_subtitle: Vous souhaitez vendre plus rapidement votre bien immobilier et au meilleur prix ?
+    benefit4_subtitle: Vous souhaitez vendre plus rapidement votre bien immobilier et au juste prix ?
     benefit4_text1: |
-                    Notre mission est de trouver les éléments qui freinent les acheteurs potentiels et d’y apporter les réponses afin de déclencher l’achat coup de cœur. 
-                    Nous vous apporterons les solutions et pour valoriser votre bien, à savoir :<br/>
-                    -	réduire au maximum ses contraintes<br/>
-                    -	valoriser les volumes et fluidifier la circulation<br/>
+                    Nous recherchons les éléments qui freinent les acheteurs potentiels et nous y apportons des réponses afin de déclencher le coup de cœur des acheteurs. 
+                    Pour valoriser votre bien,nous vous aidons à :<br/>
+                    -	réduire au maximum les contraintes<br/>
+                    -	valoriser les volumes et faciliter la circulation<br/>
                     -	gagner en luminosité<br/>
                     -	désencombrer, dépersonnaliser et harmoniser le tout<br/>
                     -	lui donner une décoration actuelle neutre et moderne.<br/>
 
-    benefit4_text2: "Pour répondre au plus près de votre demande et de votre besoin, nous vous proposons 3 formules :"
-    benefit4_text3: Diagnostic home staging
+    benefit4_text2: "Pour répondre au plus près de votre demande et de votre besoin, nous vous proposons différentes options :"
+    benefit4_text3: Flash home staging
     benefit4_text4: |
-                    Lors d’un rendez vous de 2h sur le lieu du bien concerné, nous vous apportons des solutions qui permettront de valoriser votre maison ou appartement 
+                    Lors d’un rendez vous de 2h sur le lieu du bien, nous vous apportons des solutions qui permettront de valoriser votre maison ou appartement 
                     à vendre.
     benefit4_text5: Comment se déroule la prestation ?
     benefit4_text6: |
                     -	Visite sur site avec état des lieux de votre bien<br/>
                     -	Analyse des points forts et des points faibles<br/>
-                    -	Conseils sur la mise en valeur de votre bien et apport de solutions et astuces pour créer une ambiance qui plaise au plus grand nombre.
+                    -	Conseils sur la mise en valeur de votre bien et apport de solutions pour être aux goûts du jour.
     benefit4_text7: |
                     A la suite du rendez-vous, nous vous enverrons par mail un compte rendu détaillé reprenant les recommandations évoquées lors de notre entretien.<br/>
                     Vous pourrez ainsi gérer vous même la transformation de votre bien sur la base de nos conseils.
@@ -250,9 +253,9 @@ services:
                     60€ l’heure supplémentaire
     benefit4_text10: Book complet home staging
     benefit4_text11: |
-                     Cette formule inclut le diagnostic Home Staging et vous facilitera la mise en œuvre de nos préconisations avec la remise d’un dossier complet.
-    benefit4_text12: Comment se déroule la prestation ?
-    benefit4_text13: Que contient cette prestation ?
+                     Cette formule inclut le Flash Home Staging et vous facilitera la mise en œuvre de nos préconisations avec la remise d’un book complet.
+    benefit4_text12: En quoi consiste la prestation ?
+    benefit4_text13:
     benefit4_text14: |
                     -	Visite sur site et état des lieux détaillé de votre bien : prise de côtes et photos<br/>
                     -	Analyse des points forts et des points faibles<br/>
