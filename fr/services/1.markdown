@@ -21,7 +21,7 @@ permalink: /fr/visite_conseil # change corresponding i18n path variable if perma
         </div>
       </div>
       <div class="pger-imgs no-seduo w-auto">
-        <div class="abt-imgz"><img src="/assets/images/images_prestations_570x465_1_entete.png" alt="pager3"></div>
+        <div class="abt-imgz"><img src="/assets/images/images_prestations_570x465_1_entete.jpg" alt="pager3"></div>
       </div><!--pger-imgs end-->
       <div class="clearfix"></div>
     </div>
@@ -40,7 +40,7 @@ permalink: /fr/visite_conseil # change corresponding i18n path variable if perma
                 <p>{{ site.data.i18n.services[page.lang].benefit1_text2 }}</p>
                 <p>{{ site.data.i18n.services[page.lang].benefit1_text3 }}</p>
                 <p>{{ site.data.i18n.services[page.lang].benefit1_text4 }}</p>
-                <img src="/assets/images/images_prestations_570x465_5.png" alt="871x376" class="w-100">
+                <img src="/assets/images/images_prestations_570x465_1_details.jpg">
 
                 <p><b>{{ site.data.i18n.services[page.lang].benefit1_text5 }}</b></p>
                 <p><b>{{ site.data.i18n.services[page.lang].benefit1_text6 }}</b></p>

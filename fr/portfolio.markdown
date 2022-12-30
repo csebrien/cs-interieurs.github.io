@@ -46,7 +46,7 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
 							<div class="blog-post">
 								<div class="blog-thumbnail">
-									<img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_1.png" alt="">
+									<img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_1.jpg" alt="">
 									<span class="category">Interior design</span>
 								</div>
 								<div class="blog-info">
@@ -60,21 +60,21 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
 							<div class="blog-post">
 								<div class="blog-thumbnail">
-									<img src="https://via.placeholder.com/473x373" alt="">
+									<img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_2.jpg" alt="">
 									<span class="category">Interior design</span>
 								</div>
 								<div class="blog-info">
 									<span>Jul 21, 2020</span>
 									<h2 class="blog-title"><a href="blog-single.html" title="">Purchase of furniture</a></h2>
 									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
-									<a href="blog-single.html" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
+									<a href="/fr/sejour_et_salle_a_manger" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
 								</div>
 							</div><!--blog-post end-->
 						</div>
 						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
 							<div class="blog-post">
 								<div class="blog-thumbnail">
-									<img src="https://via.placeholder.com/473x373" alt="">
+									<img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_3.jpg" alt="">
 									<span class="category">Interior design</span>
 								</div>
 								<div class="blog-info">
@@ -88,7 +88,7 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
 							<div class="blog-post">
 								<div class="blog-thumbnail">
-									<img src="https://via.placeholder.com/473x373" alt="">
+									<img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_4.jpg" alt="">
 									<span class="category">Interior design</span>
 								</div>
 								<div class="blog-info">

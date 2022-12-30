@@ -26,7 +26,7 @@ permalink: /fr/nos_prestations # change corresponding i18n path variable if perm
 				</div>
 				<div class="pger-imgs style2">
 					<div class="abt-imgz">
-						<img src="{{ site.baseurl }}/assets/images/prestations.png" alt="">
+						<img src="{{ site.baseurl }}/assets/images/prestations.jpg" alt="">
 					</div>
 				</div><!--pger-imgs end-->
 				<div class="clearfix"></div>
@@ -43,7 +43,7 @@ permalink: /fr/nos_prestations # change corresponding i18n path variable if perm
 				<div class="svs-section">
 					<div class="svs-item">
 						<div class="svs-img">
-							<a href="{{ site.baseurl }}/{{ page.lang }}/{{ site.data.i18n.services[page.lang].benefit1_path }}" title="" ><img src="{{ site.baseurl }}/assets/images/images_prestations_570x465_1.png" alt="" class="w-100"></a>
+							<a href="{{ site.baseurl }}/{{ page.lang }}/{{ site.data.i18n.services[page.lang].benefit1_path }}" title="" ><img src="{{ site.baseurl }}/assets/images/images_prestations_570x465_1.jpg" alt="" class="w-100"></a>
 						</div>
 						<div class="svss-info">
 							<h3><a href="{{ site.baseurl }}/{{ page.lang }}/{{ site.data.i18n.services[page.lang].benefit1_path }}" title="">{{ site.data.i18n.services[page.lang].section1_benefit1_title }}</a></h3>
@@ -53,7 +53,7 @@ permalink: /fr/nos_prestations # change corresponding i18n path variable if perm
 					</div><!--svs-item end-->
 					<div class="svs-item">
 						<div class="svs-img">
-							<a href="{{ site.baseurl }}/{{ page.lang }}/{{ site.data.i18n.services[page.lang].benefit2_path }}" title="" ><img src="{{ site.baseurl }}/assets/images/images_prestations_570x465_2.png" alt="" class="w-100"></a>
+							<a href="{{ site.baseurl }}/{{ page.lang }}/{{ site.data.i18n.services[page.lang].benefit2_path }}" title="" ><img src="{{ site.baseurl }}/assets/images/images_prestations_570x465_2.jpg" alt="" class="w-100"></a>
 						</div>
 						<div class="svss-info">
 							<h3><a href="{{ site.baseurl }}/{{ page.lang }}/{{ site.data.i18n.services[page.lang].benefit2_path }}" title="">{{ site.data.i18n.services[page.lang].section1_benefit2_title }}</a></h3>
@@ -63,7 +63,7 @@ permalink: /fr/nos_prestations # change corresponding i18n path variable if perm
 					</div><!--svs-item end-->
 					<div class="svs-item">
 						<div class="svs-img">
-							<a href="{{ site.baseurl }}/{{ page.lang }}/{{ site.data.i18n.services[page.lang].benefit3_path }}" title="" ><img src="{{ site.baseurl }}/assets/images/images_prestations_570x465_3.png" alt="" class="w-100"></a>
+							<a href="{{ site.baseurl }}/{{ page.lang }}/{{ site.data.i18n.services[page.lang].benefit3_path }}" title="" ><img src="{{ site.baseurl }}/assets/images/images_prestations_570x465_3.jpg" alt="" class="w-100"></a>
 						</div>
 						<div class="svss-info">
 							<h3><a href="{{ site.baseurl }}/{{ page.lang }}/{{ site.data.i18n.services[page.lang].benefit3_path }}" title="">{{ site.data.i18n.services[page.lang].section1_benefit3_title }}</a></h3>
@@ -73,7 +73,7 @@ permalink: /fr/nos_prestations # change corresponding i18n path variable if perm
 					</div><!--svs-item end-->
 					<div class="svs-item">
 						<div class="svs-img">
-							<a href="{{ site.baseurl }}/{{ page.lang }}/{{ site.data.i18n.services[page.lang].benefit4_path }}" title="" ><img src="{{ site.baseurl }}/assets/images/images_prestations_570x465_4.png" alt="" class="w-100"></a>
+							<a href="{{ site.baseurl }}/{{ page.lang }}/{{ site.data.i18n.services[page.lang].benefit4_path }}" title="" ><img src="{{ site.baseurl }}/assets/images/images_prestations_570x465_4.jpg" alt="" class="w-100"></a>
 						</div>
 						<div class="svss-info">
 							<h3><a href="{{ site.baseurl }}/{{ page.lang }}/{{ site.data.i18n.services[page.lang].benefit4_path }}" title="">{{ site.data.i18n.services[page.lang].section1_benefit4_title }}</a></h3>
