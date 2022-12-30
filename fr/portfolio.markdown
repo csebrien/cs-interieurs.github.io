@@ -51,7 +51,7 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 								</div>
 								<div class="blog-info">
 									<span>Jul 21, 2020</span>
-									<h2 class="blog-title"><a href="blog-single.html" title="">Types of home</a></h2>
+									<h2 class="blog-title"><a href="/fr/chambre_bebe" title="">Types of home</a></h2>
 									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
 									<a href="/fr/chambre_bebe" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
 								</div>
@@ -65,7 +65,7 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 								</div>
 								<div class="blog-info">
 									<span>Jul 21, 2020</span>
-									<h2 class="blog-title"><a href="blog-single.html" title="">Purchase of furniture</a></h2>
+									<h2 class="blog-title"><a href="/fr/sejour_et_salle_a_manger" title="">Purchase of furniture</a></h2>
 									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
 									<a href="/fr/sejour_et_salle_a_manger" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
 								</div>
@@ -79,9 +79,9 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 								</div>
 								<div class="blog-info">
 									<span>Jul 21, 2020</span>
-									<h2 class="blog-title"><a href="blog-single.html" title="">Kitchen design ideas</a></h2>
+									<h2 class="blog-title"><a href="/fr/chambre_enfant" title="">Kitchen design ideas</a></h2>
 									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
-									<a href="blog-single.html" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
+									<a href="/fr/chambre_enfant" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
 								</div>
 							</div><!--blog-post end-->
 						</div>
