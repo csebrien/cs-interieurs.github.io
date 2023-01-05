@@ -27,7 +27,7 @@ permalink: /fr/contactez_nous # change corresponding i18n path variable if perma
 				</div>
 				<div class="pger-imgs style2">
 					<div class="abt-imgz">
-						<img src="https://via.placeholder.com/763x509" alt="">
+						<img src="{{ site.baseurl }}/assets/images/images_contact.jpg" alt="">
 					</div>
 				</div><!--pger-imgs end-->
 				<div class="clearfix"></div>
