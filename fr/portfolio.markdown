@@ -22,12 +22,8 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 		<section class="pager-section">
 			<div class="container">
 				<div class="pager-info">
-					<ul class="breadcrumb">
-						<li><a href="#" title="">Home</a></li>
-						<li><span>Blog</span></li>
-					</ul><!--breadcrumb end-->
-					<h2>Blog</h2>
-					<span>Our blog and news</span>
+					<h2>Réalisations</h2>
+					<span>Venez découvrir les projets réalisés pour nos clients</span>
 				</div>
 				<div class="pger-imgs style2">
 					<div class="abt-imgz">
@@ -40,7 +36,6 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 
 		<section class="block">
 			<div class="container">
-				<h3 class="sub-title">Our Blog and News</h3><!--sub-title end-->
 				<div class="blog-posts blog-page">
 					<div class="row">
 						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
@@ -52,7 +47,7 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 								<div class="blog-info">
 									<span>Jul 21, 2020</span>
 									<h2 class="blog-title"><a href="/fr/chambre_bebe" title="">Chambre de bébé safari</a></h2>
-									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
+									<p>Comme un voyage avec les animaux de la savane</p>
 									<a href="/fr/chambre_bebe" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
 								</div>
 							</div><!--blog-post end-->
@@ -66,7 +61,7 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 								<div class="blog-info">
 									<span>Jul 21, 2020</span>
 									<h2 class="blog-title"><a href="/fr/sejour_et_salle_a_manger" title="">Séjour ouvert</a></h2>
-									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
+									<p>Un espace accueillant et lumineux</p>
 									<a href="/fr/sejour_et_salle_a_manger" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
 								</div>
 							</div><!--blog-post end-->
@@ -79,8 +74,8 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 								</div>
 								<div class="blog-info">
 									<span>Jul 21, 2020</span>
-									<h2 class="blog-title"><a href="/fr/chambre_enfant" title="">Chambre d'enfant buccolique</a></h2>
-									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
+									<h2 class="blog-title"><a href="/fr/chambre_enfant" title="">Chambre d'enfant bucolique</a></h2>
+									<p>Mélange de moderne et d’ancien</p>
 									<a href="/fr/chambre_enfant" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
 								</div>
 							</div><!--blog-post end-->
@@ -94,7 +89,7 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 								<div class="blog-info">
 									<span>Jul 21, 2020</span>
 									<h2 class="blog-title"><a href="/fr/chambre_parentale" title="">Chambre parentale</a></h2>
-									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
+									<p>Un style intemporel et chaleureux</p>
 									<a href="/fr/chambre_parentale" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
 								</div>
 							</div><!--blog-post end-->
@@ -108,7 +103,7 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 								<div class="blog-info">
 									<span>Jul 21, 2020</span>
 									<h2 class="blog-title"><a href="/fr/cuisine" title="">Cuisine</a></h2>
-									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
+									<p>Simplicité et praticité avec un total look blanc</p>
 									<a href="/fr/cuisine" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
 								</div>
 							</div><!--blog-post end-->
@@ -122,8 +117,22 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 								<div class="blog-info">
 									<span>Jul 21, 2020</span>
 									<h2 class="blog-title"><a href="/fr/renovation_pour_location" title="">Rénovation avant mise en location</a></h2>
-									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
+									<p>Transformation d’un T2 daté en T3 lumineux</p>
 									<a href="/fr/renovation_pour_location" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
+								</div>
+							</div><!--blog-post end-->
+						</div>
+						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
+							<div class="blog-post">
+								<div class="blog-thumbnail">
+									<img src="{{ site.baseurl }}/assets/images/images_portfolio_7.jpg" alt="">
+									<span class="category">Interior design</span>
+								</div>
+								<div class="blog-info">
+									<span>Jul 21, 2020</span>
+									<h2 class="blog-title"><a href="/fr/projection_3d_photoréalisme" title="">Projection 3D Photoréalisme</a></h2>
+									<p>Visuel 3D d'un T3</p>
+									<a href="/fr/projection_3d_photoréalisme" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
 								</div>
 							</div><!--blog-post end-->
 						</div>
