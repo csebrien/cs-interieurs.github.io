@@ -607,10 +607,25 @@ a:hover {
 	align-items: flex-start;
 	position: relative;
 }
+
+.abt-imgz-right {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-start;
+	position: relative;
+}
+
 .abt-imgz > img {
 	display: inline-block;
 	width: auto;
 	max-width: 49%;
+	margin-right: 23px;
+}
+
+.abt-imgz-right > img {
+	display: inline-block;
+	width: auto;
+	max-width: 90%;
 	margin-right: 23px;
 }
 .abt-imgz > img:last-child {

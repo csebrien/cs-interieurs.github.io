@@ -27,7 +27,7 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 				</div>
 				<div class="pger-imgs style2">
 					<div class="abt-imgz">
-						<img src="https://via.placeholder.com/763x509" alt="">
+						<img src="{{ site.baseurl }}/assets/images/portfolio.jpg" alt="">
 					</div>
 				</div><!--pger-imgs end-->
 				<div class="clearfix"></div>
@@ -97,7 +97,7 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
 							<div class="blog-post">
 								<div class="blog-thumbnail">
-									<img src="https://via.placeholder.com/473x373" alt="">
+									<img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_5.jpg" alt="">
 									<span class="category">Interior design</span>
 								</div>
 								<div class="blog-info">

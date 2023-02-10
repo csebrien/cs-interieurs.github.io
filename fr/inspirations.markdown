@@ -23,11 +23,7 @@ permalink: /fr/nos_inspirations # change corresponding i18n path variable if per
 		<section class="pager-section">
 			<div class="container">
 				<div class="pager-info">
-					<ul class="breadcrumb">
-						<li><a href="#" title="">Home</a></li>
-						<li><span>Blog</span></li>
-					</ul><!--breadcrumb end-->
-					<h2>Blog</h2>
+					<h2>Inspirations Pinterest</h2>
 					<span>Our blog and news</span>
 				</div>
 				<div class="pger-imgs style2">
@@ -41,103 +37,23 @@ permalink: /fr/nos_inspirations # change corresponding i18n path variable if per
 
 		<section class="block">
 			<div class="container">
-				<h3 class="sub-title">Our Blog and News</h3><!--sub-title end-->
-				<div class="blog-posts blog-page">
-					<div class="row">
-						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-							<div class="blog-post">
-								<div class="blog-thumbnail">
-									<img src="https://via.placeholder.com/473x373" alt="">
-									<span class="category">Interior design</span>
-								</div>
-								<div class="blog-info">
-									<span>Jul 21, 2020</span>
-									<h2 class="blog-title"><a href="blog-single.html" title="">Types of home</a></h2>
-									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
-									<a href="blog-single.html" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
-								</div>
-							</div><!--blog-post end-->
-						</div>
-						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-							<div class="blog-post">
-								<div class="blog-thumbnail">
-									<img src="https://via.placeholder.com/473x373" alt="">
-									<span class="category">Interior design</span>
-								</div>
-								<div class="blog-info">
-									<span>Jul 21, 2020</span>
-									<h2 class="blog-title"><a href="blog-single.html" title="">Purchase of furniture</a></h2>
-									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
-									<a href="blog-single.html" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
-								</div>
-							</div><!--blog-post end-->
-						</div>
-						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-							<div class="blog-post">
-								<div class="blog-thumbnail">
-									<img src="https://via.placeholder.com/473x373" alt="">
-									<span class="category">Interior design</span>
-								</div>
-								<div class="blog-info">
-									<span>Jul 21, 2020</span>
-									<h2 class="blog-title"><a href="blog-single.html" title="">Kitchen design ideas</a></h2>
-									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
-									<a href="blog-single.html" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
-								</div>
-							</div><!--blog-post end-->
-						</div>
-						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-							<div class="blog-post">
-								<div class="blog-thumbnail">
-									<img src="https://via.placeholder.com/473x373" alt="">
-									<span class="category">Interior design</span>
-								</div>
-								<div class="blog-info">
-									<span>Jul 21, 2020</span>
-									<h2 class="blog-title"><a href="blog-single.html" title="">Types of home</a></h2>
-									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
-									<a href="blog-single.html" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
-								</div>
-							</div><!--blog-post end-->
-						</div>
-						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-							<div class="blog-post">
-								<div class="blog-thumbnail">
-									<img src="https://via.placeholder.com/473x373" alt="">
-									<span class="category">Interior design</span>
-								</div>
-								<div class="blog-info">
-									<span>Jul 21, 2020</span>
-									<h2 class="blog-title"><a href="blog-single.html" title="">Purchase of furniture</a></h2>
-									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
-									<a href="blog-single.html" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
-								</div>
-							</div><!--blog-post end-->
-						</div>
-						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-							<div class="blog-post">
-								<div class="blog-thumbnail">
-									<img src="https://via.placeholder.com/473x373" alt="">
-									<span class="category">Interior design</span>
-								</div>
-								<div class="blog-info">
-									<span>Jul 21, 2020</span>
-									<h2 class="blog-title"><a href="blog-single.html" title="">Kitchen design ideas</a></h2>
-									<p>Sed pellentesque velit a elit mattis, a volutpat neque feugiat</p>
-									<a href="blog-single.html" title="" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
-								</div>
-							</div><!--blog-post end-->
-						</div>
-					</div>
-				</div><!--blog-posts end-->
-				<div class="mint-pagination">
-					<ul class="paginated">
-						<li>
-							<a href="#" title=""><i class="fa fa-angle-left"></i></a>
-							<a href="#" title=""><i class="fa fa-angle-right"></i></a>
-						</li>
-					</ul>
-				</div><!--mint-pagination end-->
+				<div class="grid">
+					<div class="grid-sizer"></div>
+					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/1022515d1cc7cea204314da61bd6665a.jpg" alt=""/></div>
+					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/180cf429b5aa6fa20cc68d2266dd26da.jpg" alt=""/></div>
+					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/2acd7eab6a6ad60b16aee5ccdb4a33f0.jpg" alt=""/></div>
+					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/44384c383f157596e3fc1251123beb72.jpg" alt=""/></div>
+					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/55489aa00aedf4f134e3cbfcc066e66b.jpg" alt=""/></div>
+					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/5bac53fa16c2ce65d50bed47b1846907.jpg" alt=""/></div>
+					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/640d4daf60b32be039f574669d0b09c3.jpg" alt=""/></div>
+					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/687dca786f329cb9e8a2790c419272dd.jpg" alt=""/></div>
+					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/71cc596346c08cf666ddabb4ded69429.jpg" alt=""/></div>
+					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/879e0b9fc9ccaf6d011a765adf9893dd.jpg" alt=""/></div>
+					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/914e59570b395ad11e580ac3e8fbb84c.jpg" alt=""/></div>
+					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/9465a9390c5c8805942249f70702f937.jpg" alt=""/></div>
+					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/d24835d0ab90562cd2b410fc411f21e9.jpg" alt=""/></div>
+					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/dbb4f10b411b6ba70ab33cadc58a78ef.jpg" alt=""/></div>
+				</div>
 			</div>
 		</section>
 
@@ -150,7 +66,20 @@ permalink: /fr/nos_inspirations # change corresponding i18n path variable if per
 
 
 {% include scripts.markdown %}
-
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
+<script>
+var $grid =	$('.grid').masonry({
+  // set itemSelector so .grid-sizer is not used in layout
+  itemSelector: '.grid-item',
+  // use element for option
+  columnWidth: '.grid-sizer',
+  percentPosition: true
+})
+$grid.imagesLoaded().progress( function() {
+  $grid.masonry('layout');
+});
+</script>
 
 </body>
 
