@@ -10,13 +10,13 @@
                         <button type="submit"><i class="la la-arrow-right"></i></button>
                     </form>
                     <span>Sign up to receive sprecial offers!</span>
-                    <ul class="social-links">
-                        <li><a href="https://www.pinterest.fr/carolinesebrien94/" title="" target="_blank"><i class="fab fa-pinterest-p"></i></a></li>
+                    <!--ul class="social-links">
+                        <li><a href="https://www.pinterest.fr/csinterieurs/" title="" target="_blank"><i class="fab fa-pinterest-p"></i></a></li>
                         <li><a href="https://www.instagram.com/cs_interieurs/?hl=fr" title="" target="_blank"><i class="fab fa-instagram"></i></a></li>
                         <li><a href="#" title="" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
                         <li><a href="#" title="" target="_blank"><i class="fab fa-linkedin"></i></a></li>
                         <li><a href="#" title="" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                    </ul><!--social-links end-->
+                    </ul--><!--social-links end-->
                 </div><!--widget-info end-->
             </div>
             <div class="col-lg-6 col-md-12">

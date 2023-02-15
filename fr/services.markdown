@@ -85,18 +85,6 @@ permalink: /fr/nos_prestations # change corresponding i18n path variable if perm
 			</div>
 		</section>
 
-		<section class="block">
-			<div class="container">
-				<div class="consult-text style2 mt-0">
-					<h3 class="sub-title">Get a free consultation. Just leave a request below</h3>
-					<form class="subsc-form">
-						<input type="text" name="name">
-						<button type="submit" class="lnk-default">Сallback <i class="la la-arrow-right"></i> <span></span></button>
-					</form>
-				</div><!--consult-text end-->
-			</div>
-		</section>
-
 		<footer>
 			{% include footer.markdown %}
 		</footer><!--footer end-->

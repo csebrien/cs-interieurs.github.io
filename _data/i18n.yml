@@ -20,14 +20,13 @@ home:
     mainbutton: Nos dernieres réalisations
     section1_title: Caroline Sebrien, Designer d'espace et décoratrice
     section1_subtitle: | 
-                        L'agence CS intérieurs répond à vos besoins d'aménagement d'intérieur et de décoration 
-                        en vous apportant une expertise et des conseils personnalisées en fonction de vos besoins, 
-                        manières de vivre et de votre budget.
-                        Spécialisée en photo réalisme 3D, Nous mettons en perspective vos projets et contribuont à la 
-                        valorisation des biens auprès des agences immobilières.
-                        Passionnée et diplômée d’une école de design et d’arts appliqués,
-                        je mettrai toute ma créativité et mon sens de l’esthétisme à votre profit 
-                        pour sublimer votre intérieur qui se révèlera unique et à votre image.
+                        L'agence CS intérieurs répond à vos besoins d'aménagement d'intérieur et de décoration en vous apportant une expertise 
+                        et des conseils personnalisés en fonction de vos besoins, de votre façon de vivre et de votre budget. Nous mettons en 
+                        perspective vos projets et contribuons à la valorisation des biens auprès des agences immobilières grâce aux visuels
+                         photos réalistes. Passionnée depuis toujours par la décoration, après 10 années en finance d'entreprise, 
+                         j'entreprends une reconversion professionnelle et sors diplômée d’une école de design et d’arts appliqués. 
+                         Je mettrai toute ma créativité et mon professionnalisme à votre profit pour sublimer votre intérieur et vous 
+                         offrir un "home sweet home" qui vous ressemble.
     section1_button: En savoir plus
     section2_title: Notre savoir faire
     section2_button: Nos réalisations
@@ -52,6 +51,7 @@ home:
     section3_subtitle2: La créativité
     section3_subdescription2: |
                                 Réussir le parfait équilibre entre nos idées et les contraintes, en réunissant esthétisme, confort et fonctionnalité
+                                <br/><br/>
     section3_subtitle3: Le professionnalisme
     section3_subdescription3: |
                                 Tenir nos engagements de délai et de budget, de qualité et de réactivité
@@ -67,16 +67,13 @@ home:
     mainbutton: Nos dernieres réalisations
     section1_title: Caroline Sebrien, Designer d'espace et décoratrice
     section1_subtitle: | 
-                        L'agence CS intérieurs répond à vos besoins d'aménagement d'intérieur et de décoration 
-                        en vous apportant une expertise et des conseils personnalisées en fonction de vos besoins, 
-                        de votre façon de vivre et de votre budget.
-                        Nous mettons en perspective vos projets et contribuont à la  valorisation des biens auprès 
-                        des agences immobilières grâce aux visuels photos réalistes.
-                        Passionnée depuis toujours par la décoration , après 10 années en finance d'entreprise,
-                        j'entreprends une reconversion professionnelle et sors diplômée d’une école de design et d’arts appliqués.
-                        je mettrai toute ma créativité et mon professionnalisme à votre profit 
-                        pour sublimer votre intérieur et vous offrir un "home sweet home" qui vous ressemble.
-    section1_button: En savoir plus
+                        L'agence CS intérieurs répond à vos besoins d'aménagement d'intérieur et de décoration en vous apportant une expertise 
+                        et des conseils personnalisés en fonction de vos besoins, de votre façon de vivre et de votre budget. Nous mettons en 
+                        perspective vos projets et contribuons à la valorisation des biens auprès des agences immobilières grâce aux visuels
+                         photos réalistes. Passionnée depuis toujours par la décoration, après 10 années en finance d'entreprise, 
+                         j'entreprends une reconversion professionnelle et sors diplômée d’une école de design et d’arts appliqués. 
+                         Je mettrai toute ma créativité et mon professionnalisme à votre profit pour sublimer votre intérieur et vous 
+                         offrir un "home sweet home" qui vous ressemble.
     section2_title: Notre savoir faire
     section2_button: Nos réalisations
     section2_subtitle1: Aménager et agencer
@@ -100,6 +97,7 @@ home:
     section3_subtitle2: La créativité
     section3_subdescription2: |
                                 Réussir le parfait équilibre entre nos idées et les contraintes, en réunissant esthétisme, confort et fonctionnalité
+                                <br/><br/>
     section3_subtitle3: Le professionnalisme
     section3_subdescription3: |
                                 Tenir nos engagements de délai et de budget, de qualité et de réactivité
@@ -185,17 +183,16 @@ services:
                     <br/><br/>
                     Matières, couleurs et jeux de volumes s’associent pour créer une ambiance à votre image. La circulation et la luminosité sont optimisées 
                     et nous intégrons le mobilier et les accessoires pour parfaire les lieux.
-                    <br/><br/>
-                     
-
+                    <br/>
     benefit2_text4: "Le contenu du dossier de décoration d’intérieur :"
     benefit2_text5: |
                     - Etat des lieux sur site de votre intérieur : analyse des atouts et contraintes.<br/>
                     - Relevé de mesures et prise de photos.<br/>
                     - Echanges, écoute, sur vos besoins et attentes, vos goûts, vos habitudes et de votre budget.<br/>
                     - Recherche, propositions et validation de votre projet aménagé et décoré.<br/>
-                    <br/>
-                    Remise d’un book complet comprenant :<br/>
+    benefit2_text5b: "Remise d’un book complet comprenant :"
+    benefit2_text5t: 
+                    |
                     - Un compte rendu détaillé de l’état existant avec ses atouts et contraintes, vos attentes et orientations décoratives<br/>
                     - Un plan côté à l’état existant<br/>
                     - Un plan côté à l’état projeté<br/>
@@ -220,7 +217,6 @@ services:
     benefit3_text4: |
                     Aidez vos clients à se projeter dans leur nouveau « chez eux ». Les rendus 3D photo réaliste des différentes pièces ainsi que le plan 3D du bien immobilier 
                     pour faciliter vos ventes.
-    benefit3_text5: "Tarif : à partir de 189 € pour 3 à 4 vues"
     benefit3_text6: |
                     selon complexité du projet et nombre de pièces à réaliser                   
     benefit4_path: home_staging
@@ -248,7 +244,6 @@ services:
     benefit4_text7: |
                     A la suite du rendez-vous, nous vous enverrons par mail un compte rendu détaillé reprenant les recommandations évoquées lors de notre entretien.<br/>
                     Vous pourrez ainsi gérer vous même la transformation de votre bien sur la base de nos conseils.
-    benefit4_text8: "Tarif : 199€* les 2H (Remise de compte rendu inclus)"
     benefit4_text9: |
                     60€ l’heure supplémentaire
     benefit4_text10: Book complet home staging

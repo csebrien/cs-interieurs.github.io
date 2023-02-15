@@ -20,7 +20,7 @@
         
         <!--ul class="mint-funcz">
             <li>
-                <a href="https://www.pinterest.fr/carolinesebrien94/" title="" target="_blank">
+                <a href="https://www.pinterest.fr/csinterieurs/" title="" target="_blank">
                     <img src="{{ site.baseurl }}/assets/images/Pinterest_Rounded_icon-icons.com_61571.png" alt="">
                 </a>
             </li>
@@ -32,11 +32,11 @@
         </ul-->
 
         <ul class="mint-funcz">
-            <li><a href="https://www.pinterest.fr/carolinesebrien94/" title="" target="_blank"><i class="fab fa-pinterest-p"></i></a></li>
+            <li><a href="https://www.pinterest.fr/csinterieurs/" title="" target="_blank"><i class="fab fa-pinterest-p"></i></a></li>
             <li><a href="https://www.instagram.com/cs_interieurs/?hl=fr" title="" target="_blank"><i class="fab fa-instagram"></i></a></li>
-            <li><a href="#" title="" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+            <!--li><a href="#" title="" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
             <li><a href="#" title="" target="_blank"><i class="fab fa-linkedin"></i></a></li>
-            <li><a href="#" title="" target="_blank"><i class="fab fa-twitter"></i></a></li>
+            <li><a href="#" title="" target="_blank"><i class="fab fa-twitter"></i></a></li-->
         </ul>
 
         <div class="menu-btnn">

@@ -37,11 +37,11 @@ permalink: /fr/visualisation_3d  # change corresponding i18n path variable if pe
                 <span id="current-date">Jul 21, 2020</span>
                 <h2 class="blog-title">{{ site.data.i18n.services[page.lang].benefit3_subtitle }}</h2>
                 <p>{{ site.data.i18n.services[page.lang].benefit3_text1 }}</p>
-                <p>{{ site.data.i18n.services[page.lang].benefit3_text2 }}</p>
+                <p style="font-weight:bold;">{{ site.data.i18n.services[page.lang].benefit3_text2 }}</p>
                 <p>{{ site.data.i18n.services[page.lang].benefit3_text3 }}</p>
                 <p>{{ site.data.i18n.services[page.lang].benefit3_text4 }}</p>
-                <p><b>{{ site.data.i18n.services[page.lang].benefit3_text5 }}</b></p>
-                <p><b>{{ site.data.i18n.services[page.lang].benefit3_text6 }}</b></p>
+                <p>Tarif : à partir de <span style="font-weight:bold;">189 €</span> pour 3 à 4 vues</p>
+                <p>{{ site.data.i18n.services[page.lang].benefit3_text6 }}</b></p>
                 <img src="/assets/images/images_prestations_570x465_3_details.jpg" alt="871x376" class="w-100">
               </div>
               <ul class="tags_list">

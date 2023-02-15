@@ -63,7 +63,6 @@ title: CS Intérieurs, décoration et design d'intérieur
 							<div class="about-text">
 								<h2 class="sub-title">{{ site.data.i18n.home[page.lang].section1_title }}</h2>
 								<p>{{ site.data.i18n.home[page.lang].section1_subtitle }}</p>
-								<a href="about.html" title="" class="lnk-default2">{{ site.data.i18n.home[page.lang].section1_button }} <i class="la la-arrow-right"></i></a>
 							</div><!--about-text end-->
 						</div>
 					</div>
@@ -199,16 +198,16 @@ title: CS Intérieurs, décoration et design d'intérieur
 				</div><!--section-title end-->
 				<div class="testimonial-section">
 					<div class="row testi-carousel">
-						<div class="col-lg-4">
+						<div class="col-lg-12">
 							<div class="testi-slide">
 								<div class="testi-head">
 									<img src="https://via.placeholder.com/70x70" alt="">
 									<div class="user-info">
-										<h3>Alana Francheska</h3>
-										<span>Lorem company</span>
+										<h3>Myriam</h3>
+										<span></span>
 									</div>
 								</div>
-								<p>Integer vehicula, est vel posuere gravida, eros tellus fermentum magna, sit amet mattis mauris quam a nisl. Mauris vitae commodo elit.  In hac habitasse platea.</p>
+								<p>Caroline a été d'une efficacité incroyable concernant notre projet d'aménagement ! Après notre demande, nous avons très vite reçu les plans d'intérieur et l'agencement. C'était parfait ! Tous nos critères étaient remplis (Rangement, verrière, bureau, bibliothèque, luminosité, etc.) Grâce à elle j'ai enfin réussi à me projeter dans ce futur appartement qu'on achète ! Je recommande chaudement.</p>
 								<ul class="rating">
 									<li><i class="la la-star"></i></li>
 									<li><i class="la la-star"></i></li>
@@ -218,16 +217,19 @@ title: CS Intérieurs, décoration et design d'intérieur
 								</ul>
 							</div><!--testi-slide end-->
 						</div>
-						<div class="col-lg-4">
+						<div class="col-lg-12">
 							<div class="testi-slide">
 								<div class="testi-head">
 									<img src="https://via.placeholder.com/70x70" alt="">
 									<div class="user-info">
-										<h3>Donald Pakura</h3>
-										<span>Lorem company</span>
+										<h3>Laura</h3>
+										<span></span>
 									</div>
 								</div>
-								<p>Integer vehicula, est vel posuere gravida, eros tellus fermentum magna, sit amet mattis mauris quam a nisl. Mauris vitae commodo elit.  In hac habitasse platea.</p>
+								<p>Caroline s’est occupé de mon intérieur comme personne !
+Mes travaux ont été réalisé assez rapidement et j’ai pu donc emménagé vite dans mon appartement grâce à une logistique très bien menée de sa part.
+Je suis ravie de la prestation !
+Je recommande !</p>
 								<ul class="rating">
 									<li><i class="la la-star"></i></li>
 									<li><i class="la la-star"></i></li>
@@ -237,63 +239,8 @@ title: CS Intérieurs, décoration et design d'intérieur
 								</ul>
 							</div><!--testi-slide end-->
 						</div>
-						<div class="col-lg-4">
-							<div class="testi-slide">
-								<div class="testi-head">
-									<img src="https://via.placeholder.com/70x70" alt="">
-									<div class="user-info">
-										<h3>Sara Kristian</h3>
-										<span>Lorem company</span>
-									</div>
-								</div>
-								<p>Integer vehicula, est vel posuere gravida, eros tellus fermentum magna, sit amet mattis mauris quam a nisl. Mauris vitae commodo elit.  In hac habitasse platea.</p>
-								<ul class="rating">
-									<li><i class="la la-star"></i></li>
-									<li><i class="la la-star"></i></li>
-									<li><i class="la la-star"></i></li>
-									<li><i class="la la-star"></i></li>
-									<li><i class="la la-star"></i></li>
-								</ul>
-							</div><!--testi-slide end-->
-						</div>
-						<div class="col-lg-4">
-							<div class="testi-slide">
-								<div class="testi-head">
-									<img src="https://via.placeholder.com/70x70" alt="">
-									<div class="user-info">
-										<h3>Alana Francheska</h3>
-										<span>Lorem company</span>
-									</div>
-								</div>
-								<p>Integer vehicula, est vel posuere gravida, eros tellus fermentum magna, sit amet mattis mauris quam a nisl. Mauris vitae commodo elit.  In hac habitasse platea.</p>
-								<ul class="rating">
-									<li><i class="la la-star"></i></li>
-									<li><i class="la la-star"></i></li>
-									<li><i class="la la-star"></i></li>
-									<li><i class="la la-star"></i></li>
-									<li><i class="la la-star"></i></li>
-								</ul>
-							</div><!--testi-slide end-->
-						</div>
-						<div class="col-lg-4">
-							<div class="testi-slide">
-								<div class="testi-head">
-									<img src="https://via.placeholder.com/70x70" alt="">
-									<div class="user-info">
-										<h3>Alana Francheska</h3>
-										<span>Lorem company</span>
-									</div>
-								</div>
-								<p>Integer vehicula, est vel posuere gravida, eros tellus fermentum magna, sit amet mattis mauris quam a nisl. Mauris vitae commodo elit.  In hac habitasse platea.</p>
-								<ul class="rating">
-									<li><i class="la la-star"></i></li>
-									<li><i class="la la-star"></i></li>
-									<li><i class="la la-star"></i></li>
-									<li><i class="la la-star"></i></li>
-									<li><i class="la la-star"></i></li>
-								</ul>
-							</div><!--testi-slide end-->
-						</div>
+						
+						
 					</div>
 				</div><!--testimonial-section end-->
 			</div>
@@ -301,7 +248,7 @@ title: CS Intérieurs, décoration et design d'intérieur
 
 		<section class="block">
 			<div class="container">
-				<h3 class="sub-title">Our Blog and News</h3>
+				<h3 class="sub-title">Ils ont retenu notre attention</h3>
 				<div class="blog-posts">
 					<div class="row">
 						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
@@ -314,7 +261,7 @@ title: CS Intérieurs, décoration et design d'intérieur
 									<span>26 janvier 2023</span>
 									<h2 class="blog-title"><a href="https://www.deco.fr/deco-piece/79528-comment-decorer-la-chambre-de-bebe-avec-un-petit-budget" title="" target="_blank">Chambre de bébé</a></h2>
 									<p>Comment décorer une chambre de bébé avec un petit budget?</p>
-									<a href="https://www.deco.fr/deco-piece/79528-comment-decorer-la-chambre-de-bebe-avec-un-petit-budget" title=""   target="_blank" class="lnk-default2">View more <i class="la la-arrow-right"></i></a>
+									<a href="https://www.deco.fr/deco-piece/79528-comment-decorer-la-chambre-de-bebe-avec-un-petit-budget" title=""   target="_blank" class="lnk-default2">Voir plus <i class="la la-arrow-right"></i></a>
 								</div>
 							</div><!--blog-post end-->
 						</div>
@@ -328,7 +275,7 @@ title: CS Intérieurs, décoration et design d'intérieur
 									<span>25 janvier 2023</span>
 									<h2 class="blog-title"><a href="https://www.deco.fr/photos/diaporama-10-petites-salles-bains-d_708" title="" target="_blank">Les petites salles de bain</a></h2>
 									<p>Comment bien les agencer?</p>
-									<a href="https://www.deco.fr/photos/diaporama-10-petites-salles-bains-d_708" title="" class="lnk-default2" target="_blank">View more <i class="la la-arrow-right"></i></a>
+									<a href="https://www.deco.fr/photos/diaporama-10-petites-salles-bains-d_708" title="" class="lnk-default2" target="_blank">Voir plus <i class="la la-arrow-right"></i></a>
 								</div>
 							</div><!--blog-post end-->
 						</div>
@@ -342,7 +289,7 @@ title: CS Intérieurs, décoration et design d'intérieur
 									<span>31 août 2019</span>
 									<h2 class="blog-title"><a href="https://www.deco.fr/diapos-deco/73598-20-objets-deco-a-acquerir-pour-une-maison-de-famille" title="" target="_blank">Objets déco</a></h2>
 									<p>20 objets déco pour une maison de famille</p>
-									<a href="https://www.deco.fr/diapos-deco/73598-20-objets-deco-a-acquerir-pour-une-maison-de-famille" title="" class="lnk-default2" target="_blank">View more <i class="la la-arrow-right"></i></a>
+									<a href="https://www.deco.fr/diapos-deco/73598-20-objets-deco-a-acquerir-pour-une-maison-de-famille" title="" class="lnk-default2" target="_blank">Voir plus <i class="la la-arrow-right"></i></a>
 								</div>
 							</div><!--blog-post end-->
 						</div>

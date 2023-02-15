@@ -37,12 +37,12 @@ permalink: /fr/visite_conseil # change corresponding i18n path variable if perma
                 <span id="current-date">Jul 21, 2020</span>
                 <h2 class="blog-title">{{ site.data.i18n.services[page.lang].benefit1_subtitle }}</h2>
                 <p>{{ site.data.i18n.services[page.lang].benefit1_text1 }}</p>
-                <p>{{ site.data.i18n.services[page.lang].benefit1_text2 }}</p>
+                <p style="font-weight:bold;">{{ site.data.i18n.services[page.lang].benefit1_text2 }}</p>
                 <p>{{ site.data.i18n.services[page.lang].benefit1_text3 }}</p>
                 <p>{{ site.data.i18n.services[page.lang].benefit1_text4 }}</p>
                 <img src="/assets/images/images_prestations_570x465_1_details.jpg">
 
-                <p><b>{{ site.data.i18n.services[page.lang].benefit1_text5 }}</b></p>
+                <p>Tarif : <span style="font-weight:bold;">199€*</span> les 2h (remise de compte rendu offert)</p>
                 <p><b>{{ site.data.i18n.services[page.lang].benefit1_text6 }}</b></p>
                 <p><b>{{ site.data.i18n.services[page.lang].benefit1_text7 }}</b></p>
               </div>

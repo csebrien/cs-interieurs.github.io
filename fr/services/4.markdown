@@ -38,16 +38,16 @@ permalink: /fr/home_staging  # change corresponding i18n path variable if permal
                 <h2 class="blog-title">{{ site.data.i18n.services[page.lang].benefit4_subtitle }}</h2>
                 <p>{{ site.data.i18n.services[page.lang].benefit4_text1 }}</p>
                 <p>{{ site.data.i18n.services[page.lang].benefit4_text2 }}</p>
-                <p>{{ site.data.i18n.services[page.lang].benefit4_text3 }}</p>
+                <p style="font-weight:bold;">{{ site.data.i18n.services[page.lang].benefit4_text3 }}</p>
                 <p>{{ site.data.i18n.services[page.lang].benefit4_text4 }}</p>
-                <p>{{ site.data.i18n.services[page.lang].benefit4_text5 }}</p>
+                <p style="font-weight:bold;">{{ site.data.i18n.services[page.lang].benefit4_text5 }}</p>
                 <p>{{ site.data.i18n.services[page.lang].benefit4_text6 }}</p>
                 <p>{{ site.data.i18n.services[page.lang].benefit4_text7 }}</p>
-                <p>{{ site.data.i18n.services[page.lang].benefit4_text8 }}</p>
+                <p>Tarif : <span style="font-weight:bold;">199€*</span> les 2H (Remise de compte rendu inclus)</p>
                 <p>{{ site.data.i18n.services[page.lang].benefit4_text9 }}</p>
                 <p>{{ site.data.i18n.services[page.lang].benefit4_text10 }}</p>
                 <p>{{ site.data.i18n.services[page.lang].benefit4_text11 }}</p>
-                <p>{{ site.data.i18n.services[page.lang].benefit4_text12 }}</p>
+                <p style="font-weight:bold;">{{ site.data.i18n.services[page.lang].benefit4_text12 }}</p>
                 <p>{{ site.data.i18n.services[page.lang].benefit4_text13 }}</p>
                 <p>{{ site.data.i18n.services[page.lang].benefit4_text14 }}</p>
                 <p>{{ site.data.i18n.services[page.lang].benefit4_text15 }}</p>

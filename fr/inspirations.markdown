@@ -24,11 +24,11 @@ permalink: /fr/nos_inspirations # change corresponding i18n path variable if per
 			<div class="container">
 				<div class="pager-info">
 					<h2>Inspirations Pinterest</h2>
-					<span>Our blog and news</span>
+					<span>Découvrez nos univers d'inspiration!</span>
 				</div>
 				<div class="pger-imgs style2">
 					<div class="abt-imgz">
-						<img src="https://via.placeholder.com/763x509" alt="">
+						<img src="{{ site.baseurl }}/assets/images/inspirations.jpg" alt="">
 					</div>
 				</div><!--pger-imgs end-->
 				<div class="clearfix"></div>
