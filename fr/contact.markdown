@@ -150,7 +150,6 @@ permalink: /fr/contactez_nous # change corresponding i18n path variable if perma
 <script>
 	grecaptcha.ready(function () {
 		grecaptcha.execute('6LdC5FcjAAAAABzm0IjJdAbPZfKkwHi0e6FzgtDT', {action: 'submit'}).then(function (token) {
-			#console.info("got token: " + token);
 			document.getElementById('g-recaptcha-response').value = token;
 		});
 	});

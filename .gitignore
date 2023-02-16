@@ -9,3 +9,4 @@ assets/images/old/*
 old/*
 todo.txt
 start-server.bat
+Gemfile.lock
