@@ -53,9 +53,8 @@ title: CS Intérieurs, décoration et design d'intérieur
 				<div class="about-us-section">
 					<div class="row align-items-center">
 						<div class="col-lg-6">
-							<div class="abt-imgz">
-								<img class="wow fadeInUp" data-wow-duration="1000ms" src="https://via.placeholder.com/309x463" alt="">
-								<img class="wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="400ms" src="https://via.placeholder.com/327x299" alt="">
+							<div class="abt-imgz" style="margin-left:150px; text-align: center;">
+								<img class="wow fadeInUp" data-wow-duration="1000ms" src="{{ site.baseurl }}/assets/images/photo-profil.jpg" alt="">
 							</div><!--abt-imgz end-->
 							
 						</div>
@@ -151,37 +150,37 @@ title: CS Intérieurs, décoration et design d'intérieur
 							<div class="project-text">
 								<h3 class="sub-title">{{ site.data.i18n.home[page.lang].section4_title }}</h3>
 								<p>{{ site.data.i18n.home[page.lang].section4_subtitle }}</p>
-								<a href="portfolio.html" title="" class="lnk-default2">{{ site.data.i18n.home[page.lang].section4_button }} <i class="la la-arrow-right"></i></a>
+								<a href="{{ site.baseurl }}/{{ page.lang }}/{{ site.data.i18n.portfolio[page.lang].path }}" title="" class="lnk-default2">{{ site.data.i18n.home[page.lang].section4_button }} <i class="la la-arrow-right"></i></a>
 							</div><!--project-text end-->
 						</div>
 						<div class="col-lg-7">
 							<div class="project-carousel">
 								<div class="project-item">
-									<img src="https://via.placeholder.com/345x453" alt="">
+									<a href="/fr/chambre_bebe" title=""><img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_1.jpg" alt=""></a>
 									<div class="project-info">
-										<h3><a href="portfolio-details.html" title="">Living room</a></h3>
-										<span>59 projects</span>
+										<h3><a href="/fr/chambre_bebe" title="">Chambre de bébé safari</a></h3>
+										<span></span>
 									</div><!--project-info end-->
 								</div><!--project-item end-->
 								<div class="project-item">
-									<img src="https://via.placeholder.com/345x453" alt="">
+									<a href="/fr/sejour_et_salle_a_manger" title=""><img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_2.jpg" alt=""></a>
 									<div class="project-info">
-										<h3><a href="portfolio-details.html" title="">Kitchen</a></h3>
-										<span>75 projects</span>
+										<h3><a href="/fr/sejour_et_salle_a_manger" title="">Séjour ouvert</a></h3>
+										<span></span>
 									</div><!--project-info end-->
 								</div><!--project-item end-->
 								<div class="project-item">
-									<img src="https://via.placeholder.com/345x453" alt="">
+									<a href="/fr/chambre_enfant" title=""><img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_3.jpg" alt=""></a>
 									<div class="project-info">
-										<h3><a href="portfolio-details.html" title="">Commercial</a></h3>
-										<span>49 projects</span>
+										<h3><a href="/fr/chambre_enfant" title="">Chambre d'enfant bucolique</a></h3>
+										<span></span>
 									</div><!--project-info end-->
 								</div><!--project-item end-->
 								<div class="project-item">
-									<img src="https://via.placeholder.com/345x453" alt="">
+									<a href="/fr/chambre_parentale" title=""><img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_4.jpg" alt=""></a>
 									<div class="project-info">
-										<h3><a href="portfolio-details.html" title="">Living room</a></h3>
-										<span>59 projects</span>
+										<h3><a href="/fr/chambre_parentale" title="">Chambre parentale</a></h3>
+										<span></span>
 									</div><!--project-info end-->
 								</div><!--project-item end-->
 							</div><!--project-carousel end-->
@@ -254,7 +253,7 @@ Je recommande !</p>
 						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
 							<div class="blog-post">
 								<div class="blog-thumbnail">
-									<img src="{{ site.baseurl }}/assets/images/images_home_blog_1.jpg" alt="">
+									<a href="https://www.deco.fr/deco-piece/79528-comment-decorer-la-chambre-de-bebe-avec-un-petit-budget" title="" target="_blank"><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_home_blog_1.jpg" alt=""></a>
 									<span class="category">deco.fr</span>
 								</div>
 								<div class="blog-info">
@@ -268,7 +267,7 @@ Je recommande !</p>
 						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
 							<div class="blog-post">
 								<div class="blog-thumbnail">
-									<img src="{{ site.baseurl }}/assets/images/images_home_blog_3.jpg" alt="">
+									<a href="https://www.deco.fr/photos/diaporama-10-petites-salles-bains-d_708" title="" target="_blank"><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_home_blog_3.jpg" alt=""></a>
 									<span class="category">deco.fr</span>
 								</div>
 								<div class="blog-info">
@@ -282,7 +281,7 @@ Je recommande !</p>
 						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
 							<div class="blog-post">
 								<div class="blog-thumbnail">
-									<img src="{{ site.baseurl }}/assets/images/images_home_blog_2.jpg" alt="">
+									<a href="https://www.deco.fr/diapos-deco/73598-20-objets-deco-a-acquerir-pour-une-maison-de-famille" title="" target="_blank"><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_home_blog_2.jpg" alt=""></a>
 									<span class="category">deco.fr</span>
 								</div>
 								<div class="blog-info">

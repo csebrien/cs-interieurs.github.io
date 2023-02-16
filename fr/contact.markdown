@@ -122,7 +122,7 @@ permalink: /fr/contactez_nous # change corresponding i18n path variable if perma
 							</div>
 						</div>
 					</div><!--contact-main end-->
-					<div class="contact-social">
+					<!--div class="contact-social">
 						<span>{{ site.data.i18n.contact[page.lang].subscribe }}</span>
 						<ul class="social-links without-bg">
 							<li><a href="#" title=""><i class="fab fa-pinterest-p"></i></a></li>
@@ -131,7 +131,7 @@ permalink: /fr/contactez_nous # change corresponding i18n path variable if perma
 							<li><a href="#" title=""><i class="fab fa-linkedin"></i></a></li>
 							<li><a href="#" title=""><i class="fab fa-twitter"></i></a></li>
 						</ul>
-					</div><!--contact-social end-->
+					</div--><!--contact-social end-->
 				</div><!--contact-page end-->
 			</div>
 		</section><!--page-content end-->

@@ -39,20 +39,20 @@ permalink: /fr/nos_inspirations # change corresponding i18n path variable if per
 			<div class="container">
 				<div class="grid">
 					<div class="grid-sizer"></div>
-					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/1022515d1cc7cea204314da61bd6665a.jpg" alt=""/></div>
-					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/180cf429b5aa6fa20cc68d2266dd26da.jpg" alt=""/></div>
-					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/2acd7eab6a6ad60b16aee5ccdb4a33f0.jpg" alt=""/></div>
-					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/44384c383f157596e3fc1251123beb72.jpg" alt=""/></div>
-					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/55489aa00aedf4f134e3cbfcc066e66b.jpg" alt=""/></div>
-					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/5bac53fa16c2ce65d50bed47b1846907.jpg" alt=""/></div>
-					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/640d4daf60b32be039f574669d0b09c3.jpg" alt=""/></div>
-					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/687dca786f329cb9e8a2790c419272dd.jpg" alt=""/></div>
-					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/71cc596346c08cf666ddabb4ded69429.jpg" alt=""/></div>
-					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/879e0b9fc9ccaf6d011a765adf9893dd.jpg" alt=""/></div>
-					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/914e59570b395ad11e580ac3e8fbb84c.jpg" alt=""/></div>
-					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/9465a9390c5c8805942249f70702f937.jpg" alt=""/></div>
-					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/d24835d0ab90562cd2b410fc411f21e9.jpg" alt=""/></div>
-					<div ><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/dbb4f10b411b6ba70ab33cadc58a78ef.jpg" alt=""/></div>
+					<div ><a href="https://www.pinterest.fr/csinterieurs/" target="_blank"><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/1022515d1cc7cea204314da61bd6665a.jpg" alt=""/></a></div>
+					<div ><a href="https://www.pinterest.fr/csinterieurs/" target="_blank"><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/180cf429b5aa6fa20cc68d2266dd26da.jpg" alt=""/></a></div>
+					<div ><a href="https://www.pinterest.fr/csinterieurs/" target="_blank"><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/2acd7eab6a6ad60b16aee5ccdb4a33f0.jpg" alt=""/></a></div>
+					<div ><a href="https://www.pinterest.fr/csinterieurs/" target="_blank"><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/44384c383f157596e3fc1251123beb72.jpg" alt=""/></a></div>
+					<div ><a href="https://www.pinterest.fr/csinterieurs/" target="_blank"><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/55489aa00aedf4f134e3cbfcc066e66b.jpg" alt=""/></a></div>
+					<div ><a href="https://www.pinterest.fr/csinterieurs/" target="_blank"><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/5bac53fa16c2ce65d50bed47b1846907.jpg" alt=""/></a></div>
+					<div ><a href="https://www.pinterest.fr/csinterieurs/" target="_blank"><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/640d4daf60b32be039f574669d0b09c3.jpg" alt=""/></a></div>
+					<div ><a href="https://www.pinterest.fr/csinterieurs/" target="_blank"><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/687dca786f329cb9e8a2790c419272dd.jpg" alt=""/></a></div>
+					<div ><a href="https://www.pinterest.fr/csinterieurs/" target="_blank"><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/71cc596346c08cf666ddabb4ded69429.jpg" alt=""/></a></div>
+					<div ><a href="https://www.pinterest.fr/csinterieurs/" target="_blank"><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/879e0b9fc9ccaf6d011a765adf9893dd.jpg" alt=""/></a></div>
+					<div ><a href="https://www.pinterest.fr/csinterieurs/" target="_blank"><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/914e59570b395ad11e580ac3e8fbb84c.jpg" alt=""/></a></div>
+					<div ><a href="https://www.pinterest.fr/csinterieurs/" target="_blank"><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/9465a9390c5c8805942249f70702f937.jpg" alt=""/></a></div>
+					<div ><a href="https://www.pinterest.fr/csinterieurs/" target="_blank"><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/d24835d0ab90562cd2b410fc411f21e9.jpg" alt=""/></a></div>
+					<div ><a href="https://www.pinterest.fr/csinterieurs/" target="_blank"><img class="grid-item" src="{{ site.baseurl }}/assets/images/pinterest/dbb4f10b411b6ba70ab33cadc58a78ef.jpg" alt=""/></a></div>
 				</div>
 			</div>
 		</section>

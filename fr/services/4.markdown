@@ -34,7 +34,6 @@ permalink: /fr/home_staging  # change corresponding i18n path variable if permal
           <div class="col-lg-8">
             <div class="blog-post single">
               <div class="blog-info">
-                <span id="current-date">Jul 21, 2020</span>
                 <h2 class="blog-title">{{ site.data.i18n.services[page.lang].benefit4_subtitle }}</h2>
                 <p>{{ site.data.i18n.services[page.lang].benefit4_text1 }}</p>
                 <p>{{ site.data.i18n.services[page.lang].benefit4_text2 }}</p>
@@ -52,39 +51,9 @@ permalink: /fr/home_staging  # change corresponding i18n path variable if permal
                 <p>{{ site.data.i18n.services[page.lang].benefit4_text14 }}</p>
                 <p>{{ site.data.i18n.services[page.lang].benefit4_text15 }}</p>
                 <img src="/assets/images/images_prestations_570x465_4_details.jpg" alt="871x376" class="w-100">
+                <span id="current-date">Jul 21, 2020</span>
               </div>
-              <ul class="tags_list">
-                <li>
-                  <a href="#" title="">#design</a>
-                </li>
-                <li>
-                  <a href="#" title="">#homeinteriors</a>
-                </li>
-                <li>
-                  <a href="#" title="">#interior</a>
-                </li>
-              </ul><!--tags_liste end-->
-              <div class="pagination-mint">
-                <nav aria-label="Page navigation example">
-                  <ul class="pagination">
-                    <li class="page-item">
-                      <a class="page-link prev" href="#">Previous</a>
-                    </li>
-                    <li class="page-item">
-                      <a class="page-link active" href="#">1</a>
-                    </li>
-                    <li class="page-item">
-                      <a class="page-link" href="#">2</a>
-                    </li>
-                    <li class="page-item">
-                      <a class="page-link" href="#">3</a>
-                    </li>
-                    <li class="page-item">
-                      <a class="page-link next" href="#">Next</a>
-                    </li>
-                  </ul>
-                </nav>
-              </div><!--pagination-mint end-->
+              
             </div><!--blog-post single end-->
           </div>
         </div>

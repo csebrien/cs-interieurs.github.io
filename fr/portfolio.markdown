@@ -45,7 +45,8 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 									<span class="category">Interior design</span>
 								</div>
 								<div class="blog-info">
-									<span>21 juillet 2022</span>
+									{% assign current_page = site.pages | where: "url", "/fr/chambre_bebe" | first %}
+									<span id="post-date">{{ current_page.last_modified_at }}</span>
 									<h2 class="blog-title"><a href="/fr/chambre_bebe" title="">Chambre de bébé safari</a></h2>
 									<p>Comme un voyage avec les animaux de la savane</p>
 									<a href="/fr/chambre_bebe" title="" class="lnk-default2">Voir plus <i class="la la-arrow-right"></i></a>
@@ -59,7 +60,8 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 									<span class="category">Interior design</span>
 								</div>
 								<div class="blog-info">
-									<span>3 juin 2022</span>
+									{% assign current_page = site.pages | where: "url", "/fr/sejour_et_salle_a_manger" | first %}
+									<span id="post-date">{{ current_page.last_modified_at }}</span>
 									<h2 class="blog-title"><a href="/fr/sejour_et_salle_a_manger" title="">Séjour ouvert</a></h2>
 									<p>Un espace accueillant et lumineux</p>
 									<a href="/fr/sejour_et_salle_a_manger" title="" class="lnk-default2">Voir plus <i class="la la-arrow-right"></i></a>
@@ -73,7 +75,8 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 									<span class="category">Interior design</span>
 								</div>
 								<div class="blog-info">
-									<span>15 mai 2022</span>
+									{% assign current_page = site.pages | where: "url", "/fr/chambre_enfant" | first %}
+									<span id="post-date">{{ current_page.last_modified_at }}</span>
 									<h2 class="blog-title"><a href="/fr/chambre_enfant" title="">Chambre d'enfant bucolique</a></h2>
 									<p>Mélange de moderne et d’ancien</p>
 									<a href="/fr/chambre_enfant" title="" class="lnk-default2">Voir plus <i class="la la-arrow-right"></i></a>
@@ -87,7 +90,8 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 									<span class="category">Interior design</span>
 								</div>
 								<div class="blog-info">
-									<span>3 mars 2022</span>
+									{% assign current_page = site.pages | where: "url", "/fr/chambre_parentale" | first %}
+									<span id="post-date">{{ current_page.last_modified_at }}</span>
 									<h2 class="blog-title"><a href="/fr/chambre_parentale" title="">Chambre parentale</a></h2>
 									<p>Un style intemporel et chaleureux</p>
 									<a href="/fr/chambre_parentale" title="" class="lnk-default2">Voir plus <i class="la la-arrow-right"></i></a>
@@ -101,7 +105,8 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 									<span class="category">Interior design</span>
 								</div>
 								<div class="blog-info">
-									<span>14 fevrier 2022</span>
+									{% assign current_page = site.pages | where: "url", "/fr/cuisine" | first %}
+									<span id="post-date">{{ current_page.last_modified_at }}</span>
 									<h2 class="blog-title"><a href="/fr/cuisine" title="">Cuisine</a></h2>
 									<p>Simplicité et praticité avec un total look blanc</p>
 									<a href="/fr/cuisine" title="" class="lnk-default2">Voir plus <i class="la la-arrow-right"></i></a>
@@ -115,7 +120,8 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 									<span class="category">Interior design</span>
 								</div>
 								<div class="blog-info">
-									<span>3 fevrier 2022</span>
+									{% assign current_page = site.pages | where: "url", "/fr/renovation_pour_location" | first %}
+									<span id="post-date">{{ current_page.last_modified_at }}</span>
 									<h2 class="blog-title"><a href="/fr/renovation_pour_location" title="">Rénovation avant mise en location</a></h2>
 									<p>Transformation d’un T2 daté en T3 lumineux</p>
 									<a href="/fr/renovation_pour_location" title="" class="lnk-default2">Voir plus <i class="la la-arrow-right"></i></a>
@@ -129,7 +135,8 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 									<span class="category">Interior design</span>
 								</div>
 								<div class="blog-info">
-									<span>18 janvier 2022</span>
+									{% assign current_page = site.pages | where: "url", "/fr/projection_3d_photoréalisme" | first %}
+									<span id="post-date">{{ current_page.last_modified_at }}</span>
 									<h2 class="blog-title"><a href="/fr/projection_3d_photoréalisme" title="">Projection 3D Photoréalisme</a></h2>
 									<p>Visuel 3D d'un T3</p>
 									<a href="/fr/projection_3d_photoréalisme" title="" class="lnk-default2">Voir plus <i class="la la-arrow-right"></i></a>

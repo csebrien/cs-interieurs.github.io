@@ -3,8 +3,8 @@ layout: null
 code: soon
 title: "Découvrez bientôt nos prestations et réalisations en décoration d'intérieur"
 permalink: /fr/soon
-redirect_from:
-  - /fr/
+#redirect_from:
+#  - /fr/
 ---
 <html lang="en">
 {% include head.markdown %}

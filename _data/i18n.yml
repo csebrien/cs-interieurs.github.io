@@ -297,7 +297,6 @@ contact:
     dest_email: E-mail
     dest_phone: Téléphone
     message: Message
-    subscribe: Abonnez vous à nos reseaux sociaux
     email_subject: Nouveau message du site cs-interieurs!
 
 footer:

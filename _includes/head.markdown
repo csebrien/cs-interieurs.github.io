@@ -17,4 +17,5 @@
 	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style.css">
 	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/responsive.css">
 	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/masonry.css">
+	{% seo %}
 </head>

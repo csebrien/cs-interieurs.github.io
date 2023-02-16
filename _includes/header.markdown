@@ -47,4 +47,5 @@
             </div><!--menu-bar end-->
         </div>
     </div><!--header-content end-->
+    <div class="addthis_inline_share_toolbox"></div>
 </div>

@@ -195,12 +195,14 @@
 	.consult-text.style2 {padding: 60px 40px 75px 40px;}
 	.subsc-form input {width: 100%;}
 	.subsc-form .lnk-default {margin-left: 0;margin-top: 20px;}
+	.subsc-form .lnk-newsletter {margin-left: 0;margin-top: 20px;}
 }
 
 
 @media (max-width: 576px) {
 	.banner-content {padding-top: 20px;}
 	.lnk-default {height: 50px;line-height: 50px;padding: 0 30px;}
+	.lnk-newsletter {height: 50px;line-height: 50px;padding: 0 30px;}
 	.main-banner {padding: 110px 0 65px;}
 	.mint-funcz {display: none;}
 	.block {padding: 80px 0;}
@@ -210,6 +212,7 @@
 	.subsc-form input {width: 100%;margin-bottom: 20px;}
 	.subsc-form {text-align: center;}
 	.subsc-form .lnk-default {margin: 0;}
+	.subsc-form .lnk-newsletter {margin: 0;}
 	.consultation-sec {padding: 75px 0;}
 	.ft-logo {width: 100%;margin-bottom: 20px;}
 	.btm-links {width: 100%;}
