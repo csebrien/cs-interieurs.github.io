@@ -42,7 +42,7 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 							<div class="blog-post">
 								<div class="blog-thumbnail">
 									<a href="/fr/chambre_bebe" title=""><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_1.jpg" alt=""/></a>
-									<span class="category">Interior design</span>
+									
 								</div>
 								<div class="blog-info">
 									{% assign current_page = site.pages | where: "url", "/fr/chambre_bebe" | first %}
@@ -57,7 +57,7 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 							<div class="blog-post">
 								<div class="blog-thumbnail">
 									<a href="/fr/sejour_et_salle_a_manger" title=""><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_2.jpg" alt=""></a>
-									<span class="category">Interior design</span>
+									
 								</div>
 								<div class="blog-info">
 									{% assign current_page = site.pages | where: "url", "/fr/sejour_et_salle_a_manger" | first %}
@@ -72,7 +72,7 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 							<div class="blog-post">
 								<div class="blog-thumbnail">
 									<a href="/fr/chambre_enfant" title=""><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_3.jpg" alt=""></a>
-									<span class="category">Interior design</span>
+									
 								</div>
 								<div class="blog-info">
 									{% assign current_page = site.pages | where: "url", "/fr/chambre_enfant" | first %}
@@ -87,7 +87,7 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 							<div class="blog-post">
 								<div class="blog-thumbnail">
 									<a href="/fr/chambre_parentale" title=""><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_4.jpg" alt=""></a>
-									<span class="category">Interior design</span>
+									
 								</div>
 								<div class="blog-info">
 									{% assign current_page = site.pages | where: "url", "/fr/chambre_parentale" | first %}
@@ -102,7 +102,7 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 							<div class="blog-post">
 								<div class="blog-thumbnail">
 									<a href="/fr/cuisine" title=""><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_5.jpg" alt=""></a>
-									<span class="category">Interior design</span>
+									
 								</div>
 								<div class="blog-info">
 									{% assign current_page = site.pages | where: "url", "/fr/cuisine" | first %}
@@ -117,7 +117,7 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 							<div class="blog-post">
 								<div class="blog-thumbnail">
 									<a href="/fr/renovation_pour_location" title=""><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_portfolio_6.jpg" alt=""></a>
-									<span class="category">Interior design</span>
+									
 								</div>
 								<div class="blog-info">
 									{% assign current_page = site.pages | where: "url", "/fr/renovation_pour_location" | first %}
@@ -132,7 +132,7 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 							<div class="blog-post">
 								<div class="blog-thumbnail">
 									<a href="/fr/projection_3d_photoréalisme" title=""><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_portfolio_7.jpg" alt=""></a>
-									<span class="category">Interior design</span>
+									
 								</div>
 								<div class="blog-info">
 									{% assign current_page = site.pages | where: "url", "/fr/projection_3d_photoréalisme" | first %}
