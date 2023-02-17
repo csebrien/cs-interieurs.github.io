@@ -307,4 +307,5 @@
 	.pro-head strong {left: 60%;margin-left: 0;}
 	.consult-text.style2 .sub-title:before {display: none;}
 	.consult-text.style2 .sub-title {padding-left: 0;font-size: 22px;line-height: 30px;}
+	.blog-thumbnail-img {height: auto; }
 }
