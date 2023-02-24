@@ -200,7 +200,7 @@ title: CS Intérieurs, décoration et design d'intérieur
 						<div class="col-lg-12">
 							<div class="testi-slide">
 								<div class="testi-head">
-									<img src="https://via.placeholder.com/70x70" alt="">
+									<img src="{{ site.baseurl }}/assets/images/myriam.jpg" alt="">
 									<div class="user-info">
 										<h3>Myriam</h3>
 										<span></span>
@@ -219,7 +219,7 @@ title: CS Intérieurs, décoration et design d'intérieur
 						<div class="col-lg-12">
 							<div class="testi-slide">
 								<div class="testi-head">
-									<img src="https://via.placeholder.com/70x70" alt="">
+									<img src="{{ site.baseurl }}/assets/images/laura.jpg" alt="">
 									<div class="user-info">
 										<h3>Laura</h3>
 										<span></span>
