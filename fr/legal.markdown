@@ -31,23 +31,19 @@ permalink: /fr/mentions_legales
 
 <h4>I.1 – Propriétaire du site</h4>
 
-<p>Ce site est édité par CS Intérieurs EURL</p>
+<p>Ce site est édité par CS Intérieurs</p>
 
-<p>Raison Sociale : CS Intérieurs</p>
+<p>Forme juridique : Profession Libérale</p>
 
-<p>Forme : EURL</p>
-
-<p>Capital Social : 7 500 €</p>
-
-<p>Immatriculation : RCS de Créteil sous le numéro XXX XXX XXX</p>
+<p>SIREN : 923 283 741</p>
 
 <p>Adresse du siège social : 12, avenue Andrée, 94100 Saint-Maur-des-Fossés, FRANCE</p>
 
-<p>Téléphone : +33 (0) 1 76 54 56 82 </p>
+<p>Téléphone : +33 (0) 6 63 27 18 29 </p>
 
 <h4> I.2 – Directeur de la publication</h4>
 
-<p>Madame Caroline Sebrien, Président Directeur Général de CS Intérieurs EURL</p>
+<p>Madame Caroline Sebrien, Président Directeur Général de CS Intérieurs</p>
 
 <h4> I.3 – Adresse mail du webmaster</h4>
 
@@ -55,7 +51,7 @@ permalink: /fr/mentions_legales
 
 <h4> I.4 – Hébergeur</h4>
 
-<p>Levelsys SAS, Paris (75)</p>
+<p>github.com</p>
 
 <h4> I.5 – Conception et réalisation</h4>
 
