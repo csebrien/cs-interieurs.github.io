@@ -41,6 +41,36 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
 							<div class="blog-post">
 								<div class="blog-thumbnail">
+									<a href="/fr/home_staging_old_house" title=""><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_10.jpg" alt=""/></a>
+									
+								</div>
+								<div class="blog-info">
+									{% assign current_page = site.pages | where: "url", "/fr/home_staging_old_house" | first %}
+									<span id="post-date">{{ current_page.last_modified_at }}</span>
+									<h2 class="blog-title"><a href="/fr/home_staging_old_house" title="">Home staging</a></h2>
+									<p>Cette maison avait besoin d’un bon coup de frais !</p>
+									<a href="/fr/home_staging_old_house" title="" class="lnk-default2">Voir plus <i class="la la-arrow-right"></i></a>
+								</div>
+							</div><!--blog-post end-->
+						</div>
+						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
+							<div class="blog-post">
+								<div class="blog-thumbnail">
+									<a href="/fr/renovation_totale_pour_colocation" title=""><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_8.jpg" alt=""/></a>
+									
+								</div>
+								<div class="blog-info">
+									{% assign current_page = site.pages | where: "url", "/fr/renovation_totale_pour_colocation" | first %}
+									<span id="post-date">{{ current_page.last_modified_at }}</span>
+									<h2 class="blog-title"><a href="/fr/renovation_totale_pour_colocation" title="">Renovation totale pour colocation</a></h2>
+									<p>Réaménagement totale d’une maison de 120 m2</p>
+									<a href="/fr/renovation_totale_pour_colocation" title="" class="lnk-default2">Voir plus <i class="la la-arrow-right"></i></a>
+								</div>
+							</div><!--blog-post end-->
+						</div>
+						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
+							<div class="blog-post">
+								<div class="blog-thumbnail">
 									<a href="/fr/chambre_bebe" title=""><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_1.jpg" alt=""/></a>
 									
 								</div>
