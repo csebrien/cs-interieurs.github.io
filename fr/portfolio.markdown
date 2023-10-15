@@ -41,13 +41,28 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
 							<div class="blog-post">
 								<div class="blog-thumbnail">
+									<a href="/fr/suite_parentale" title=""><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_12.jpg" alt=""/></a>
+									
+								</div>
+								<div class="blog-info">
+									{% assign current_page = site.pages | where: "url", "/fr/suite_parentale" | first %}
+									<span id="post-date">{{ current_page.last_modified_at }}</span>
+									<h2 class="blog-title"><a href="/fr/suite_parentale" title="">Suite Parentale</a></h2>
+									<p>Optimisation de l'espace</p>
+									<a href="/fr/suite_parentale" title="" class="lnk-default2">Voir plus <i class="la la-arrow-right"></i></a>
+								</div>
+							</div><!--blog-post end-->
+						</div>
+						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
+							<div class="blog-post">
+								<div class="blog-thumbnail">
 									<a href="/fr/agencement_meuble_tv" title=""><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_11.jpg" alt=""/></a>
 									
 								</div>
 								<div class="blog-info">
 									{% assign current_page = site.pages | where: "url", "/fr/agencement_meuble_tv" | first %}
 									<span id="post-date">{{ current_page.last_modified_at }}</span>
-									<h2 class="blog-title"><a href="/fr/agencement_meuble_tv" title="">Agence de meuble TV</a></h2>
+									<h2 class="blog-title"><a href="/fr/agencement_meuble_tv" title="">Agencement de meuble TV</a></h2>
 									<p>Agencement sur mesure</p>
 									<a href="/fr/agencement_meuble_tv" title="" class="lnk-default2">Voir plus <i class="la la-arrow-right"></i></a>
 								</div>

@@ -156,30 +156,30 @@ title: CS Intérieurs, décoration et design d'intérieur
 						<div class="col-lg-7">
 							<div class="project-carousel">
 								<div class="project-item">
-									<a href="/fr/chambre_bebe" title=""><img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_1.jpg" alt=""></a>
+									<a href="/fr/suite_parentale" title=""><img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_12.jpg" alt=""></a>
 									<div class="project-info">
-										<h3><a href="/fr/chambre_bebe" title="">Chambre de bébé safari</a></h3>
+										<h3><a href="/fr/suite_parentale" title="">Suite Parentale</a></h3>
 										<span></span>
 									</div><!--project-info end-->
 								</div><!--project-item end-->
 								<div class="project-item">
-									<a href="/fr/sejour_et_salle_a_manger" title=""><img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_2.jpg" alt=""></a>
+									<a href="/fr/agencement_meuble_tv" title=""><img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_11.jpg" alt=""></a>
 									<div class="project-info">
-										<h3><a href="/fr/sejour_et_salle_a_manger" title="">Séjour ouvert</a></h3>
+										<h3><a href="/fr/agencement_meuble_tv" title="">Agencement de meuble TV</a></h3>
 										<span></span>
 									</div><!--project-info end-->
 								</div><!--project-item end-->
 								<div class="project-item">
-									<a href="/fr/chambre_enfant" title=""><img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_3.jpg" alt=""></a>
+									<a href="/fr/maison_de_famille" title=""><img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_9.jpg" alt=""></a>
 									<div class="project-info">
-										<h3><a href="/fr/chambre_enfant" title="">Chambre d'enfant bucolique</a></h3>
+										<h3><a href="/fr/maison_de_famille" title="">Maison de famille 1850</a></h3>
 										<span></span>
 									</div><!--project-info end-->
 								</div><!--project-item end-->
 								<div class="project-item">
-									<a href="/fr/chambre_parentale" title=""><img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_4.jpg" alt=""></a>
+									<a href="/fr/home_staging_old_house" title=""><img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_10.jpg" alt=""></a>
 									<div class="project-info">
-										<h3><a href="/fr/chambre_parentale" title="">Chambre parentale</a></h3>
+										<h3><a href="/fr/home_staging_old_house" title="">Home staging</a></h3>
 										<span></span>
 									</div><!--project-info end-->
 								</div><!--project-item end-->
