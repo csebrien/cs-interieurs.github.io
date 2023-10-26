@@ -41,6 +41,21 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
 							<div class="blog-post">
 								<div class="blog-thumbnail">
+									<a href="/fr/sejour_projet_madeleine" title=""><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_13.jpg" alt=""/></a>
+									
+								</div>
+								<div class="blog-info">
+									{% assign current_page = site.pages | where: "url", "/fr/sejour_projet_madeleine" | first %}
+									<span id="post-date">{{ current_page.last_modified_at }}</span>
+									<h2 class="blog-title"><a href="/fr/sejour_projet_madeleine" title="">Séjour Projet Madeleine</a></h2>
+									<p>Mélange de l'ancien et du moderne</p>
+									<a href="/fr/sejour_projet_madeleine" title="" class="lnk-default2">Voir plus <i class="la la-arrow-right"></i></a>
+								</div>
+							</div><!--blog-post end-->
+						</div>
+						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
+							<div class="blog-post">
+								<div class="blog-thumbnail">
 									<a href="/fr/suite_parentale" title=""><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_12.jpg" alt=""/></a>
 									
 								</div>

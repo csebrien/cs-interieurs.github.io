@@ -156,6 +156,13 @@ title: CS Intérieurs, décoration et design d'intérieur
 						<div class="col-lg-7">
 							<div class="project-carousel">
 								<div class="project-item">
+									<a href="/fr/sejour_projet_madeleine" title=""><img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_13.jpg" alt=""></a>
+									<div class="project-info">
+										<h3><a href="/fr/sejour_projet_madeleine" title="">Séjour projet Madeleine</a></h3>
+										<span></span>
+									</div><!--project-info end-->
+								</div><!--project-item end-->
+								<div class="project-item">
 									<a href="/fr/suite_parentale" title=""><img src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_12.jpg" alt=""></a>
 									<div class="project-info">
 										<h3><a href="/fr/suite_parentale" title="">Suite Parentale</a></h3>
