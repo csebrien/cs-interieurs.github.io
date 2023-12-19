@@ -41,6 +41,21 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
 							<div class="blog-post">
 								<div class="blog-thumbnail">
+									<a href="/fr/salle_de_bain_principale" title=""><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_14.jpg" alt=""/></a>
+									
+								</div>
+								<div class="blog-info">
+									{% assign current_page = site.pages | where: "url", "/fr/salle_de_bain_principale" | first %}
+									<span id="post-date">{{ current_page.last_modified_at }}</span>
+									<h2 class="blog-title"><a href="/fr/salle_de_bain_principale" title="">Salle de bain principale</a></h2>
+									<p>Transformation Exquise : Rénovation d'une Salle de Bain Inspirante</p>
+									<a href="/fr/salle_de_bain_principale" title="" class="lnk-default2">Voir plus <i class="la la-arrow-right"></i></a>
+								</div>
+							</div><!--blog-post end-->
+						</div>
+						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
+							<div class="blog-post">
+								<div class="blog-thumbnail">
 									<a href="/fr/sejour_projet_madeleine" title=""><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_13.jpg" alt=""/></a>
 									
 								</div>
