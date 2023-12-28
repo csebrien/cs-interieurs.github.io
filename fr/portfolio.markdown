@@ -38,6 +38,21 @@ permalink: /fr/nos_dernieres_realisations # change corresponding i18n path varia
 			<div class="container">
 				<div class="blog-posts blog-page">
 					<div class="row">
+					<div class="col-lg-4 col-md-6 col-sm-6 col-12">
+							<div class="blog-post">
+								<div class="blog-thumbnail">
+									<a href="/fr/transformation_home_staging" title=""><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_portfolio_473x373_15.jpg" alt=""/></a>
+									
+								</div>
+								<div class="blog-info">
+									{% assign current_page = site.pages | where: "url", "/fr/transformation_home_staging" | first %}
+									<span id="post-date">{{ current_page.last_modified_at }}</span>
+									<h2 class="blog-title"><a href="/fr/transformation_home_staging" title="">Transformez votre intérieur avec le Home Staging</a></h2>
+									<p>Un Projet Client Réussi</p>
+									<a href="/fr/transformation_home_staging" title="" class="lnk-default2">Voir plus <i class="la la-arrow-right"></i></a>
+								</div>
+							</div><!--blog-post end-->
+						</div>
 						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
 							<div class="blog-post">
 								<div class="blog-thumbnail">
