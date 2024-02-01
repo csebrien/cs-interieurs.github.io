@@ -3,7 +3,19 @@
     <div class="top-footer">
         <div class="row">
             <div class="col-lg-6 col-md-12">
-                <div class="widget widget-info">
+                <div class="widget widget-info" style="max-width: 600px;">
+                    <span style="margin-bottom:8px;"><a href="/fr/saintmaurdesfosses/index.html">Décoratrice d'intérieur à Saint-Maur-Des-Fossés</a></span>
+                    <span style="margin-bottom:8px;"><a href="/fr/joinvillelepont/index.html">Décoratrice d'intérieur à Joinville-Le-Pont</a></span>
+                    <span style="margin-bottom:8px;"><a href="/fr/maisonsalfort/index.html">Décoratrice d'intérieur à Maisons-Alfort</a></span>
+                    <span style="margin-bottom:8px;"><a href="/fr/nogentsurmarne/index.html">Décoratrice d'intérieur à Nogent-sur-Marne</a></span>
+                    <span style="margin-bottom:8px;"><a href="/fr/paris/index.html">Décoratrice d'intérieur à Paris</a></span>
+                    <span style="margin-bottom:8px;"><a href="/fr/saintmande/index.html">Décoratrice d'intérieur à Saint-Mandé</a></span>
+                    <span style="margin-bottom:8px;"><a href="/fr/vincennes/index.html">Décoratrice d'intérieur à Vincennes</a></span>
+                    <span style="margin-bottom:8px;"><a href="/fr/alfortville/index.html">Décoratrice d'intérieur à Alfortville</a></span>
+                    <span style="margin-bottom:8px;"><a href="/fr/fontenaysousbois/index.html">Décoratrice d'intérieur à Fontenay-sous-Bois</a></span>
+                    <span style="margin-bottom:10px;">&nbsp;</span>
+                </div><!--widget-contact end-->
+                <div class="widget widget-info" style="max-width: 400px;">
                     <h3 class="widget-title">Newsletter</h3>
                     <form action="https://cs-interieurs.us21.list-manage.com/subscribe/post?u=e82743c54df25b9bb4acdc67b&amp;id=d0969de640&amp;f_id=0087f9e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate widget-form" target="_blank" novalidate >
                         <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Votre e-mail" required>
