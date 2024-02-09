@@ -64,6 +64,7 @@
             <!--img src="{{ site.baseurl }}/assets/images/ft-logo.png" alt=""-->
         </div><!--ft-logo end-->
         <ul class="btm-links">
+            <li><a style="decoration:none;">Crédit Photo : Sébastien Prevot</a></li>
             <li><a href="{{ site.baseurl }}/{{ page.lang }}/{{ site.data.i18n.legal[page.lang].path }}" title="">{{ site.data.i18n.footer[page.lang].legal }}</a></li>
         </ul><!--btm-links end-->
         <div class="clearfix"></div>

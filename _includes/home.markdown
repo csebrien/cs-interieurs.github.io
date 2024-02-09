@@ -47,8 +47,9 @@
 				<div class="about-us-section">
 					<div class="row align-items-center">
 						<div class="col-lg-6">
-							<div class="abt-imgz" style="margin-left:150px; text-align: center;">
+							<div class="abt-imgz" >
 								<img class="wow fadeInUp" data-wow-duration="1000ms" src="{{ site.baseurl }}/assets/images/photo-profil.jpg" alt="">
+								<img class="wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="400ms" src="{{ site.baseurl }}/assets/images/photo-profil2.jpg" alt="">
 							</div><!--abt-imgz end-->
 							
 						</div>
@@ -198,6 +199,25 @@
 				</div><!--section-title end-->
 				<div class="testimonial-section">
 					<div class="row testi-carousel">
+						<div class="col-lg-12">
+							<div class="testi-slide">
+								<div class="testi-head">
+									<img src="{{ site.baseurl }}/assets/images/yves.jpg" alt="">
+									<div class="user-info">
+										<h3>Yves</h3>
+										<span></span>
+									</div>
+								</div>
+								<p>Caroline a su capturer parfaitement mes préférences tout en ajoutant sa touche distinctive. Le résultat final a dépassé toutes mes attentes, et je suis ravi des plans proposés pour les différentes pièces de mon appartement. Je recommande chaleureusement Caroline à tous ceux qui cherchent à donner vie à leurs idées de décoration. Merci encore pour cette expérience exceptionnelle, j'ai hâte que les travaux soient terminés !</p>
+								<ul class="rating">
+									<li><i class="la la-star"></i></li>
+									<li><i class="la la-star"></i></li>
+									<li><i class="la la-star"></i></li>
+									<li><i class="la la-star"></i></li>
+									<li><i class="la la-star"></i></li>
+								</ul>
+							</div><!--testi-slide end-->
+						</div>
 						<div class="col-lg-12">
 							<div class="testi-slide">
 								<div class="testi-head">
