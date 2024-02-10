@@ -4,7 +4,7 @@ code: services
 title: "Nos prestations"
 permalink: /fr/nos_prestations # change corresponding i18n path variable if permalink changed here!
 ---
-<html lang="en">
+<html lang="fr">
 {% include head.markdown %}
 <body>
 

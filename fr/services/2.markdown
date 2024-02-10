@@ -4,7 +4,7 @@ code: amenagement_et_decoration_d_interieur
 title: "Aménagement et décoration d'intérieur" 
 permalink: /fr/amenagement_et_decoration_d_interieur  # change corresponding i18n path variable if permalink changed here! 
 ---
-<html lang="en">
+<html lang="fr">
  {% include head.markdown %} 
  <body>
  {% include page-loading.markdown %}

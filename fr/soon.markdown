@@ -6,7 +6,7 @@ permalink: /fr/soon
 #redirect_from:
 #  - /fr/
 ---
-<html lang="en">
+<html lang="fr">
 {% include head.markdown %}
 
 

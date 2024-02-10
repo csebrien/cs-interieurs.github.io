@@ -28,7 +28,7 @@
 					<div class="col-lg-6">
 						<div class="banner-slider">
 							<div class="banner-slide">
-								<a href="nos_inspirations" title=""><img src="{{ site.baseurl }}/assets/images/home_slider_1.png" alt="" /></a>
+								<a href="nos_inspirations" title=""><img src="{{ site.baseurl }}/assets/images/photo-home-page.jpg" alt="" /></a>
 							</div><!--banner-slide end-->
 							<div class="banner-slide">
 								<a href="nos_inspirations" title=""><img src="{{ site.baseurl }}/assets/images/home_slider_2.png" alt=""/></a>
@@ -264,58 +264,6 @@ Je recommande !</p>
 					</div>
 				</div><!--testimonial-section end-->
 			</div>
-		</section>
-
-		<section class="block">
-			<div class="container">
-				<h3 class="sub-title">Ils ont retenu notre attention</h3>
-				<div class="blog-posts">
-					<div class="row">
-						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-							<div class="blog-post">
-								<div class="blog-thumbnail">
-									<a href="https://www.deco.fr/deco-piece/79528-comment-decorer-la-chambre-de-bebe-avec-un-petit-budget" title="" target="_blank"><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_home_blog_1.jpg" alt=""></a>
-									<span class="category">deco.fr</span>
-								</div>
-								<div class="blog-info">
-									<span>26 janvier 2023</span>
-									<h2 class="blog-title"><a href="https://www.deco.fr/deco-piece/79528-comment-decorer-la-chambre-de-bebe-avec-un-petit-budget" title="" target="_blank">Chambre de bébé</a></h2>
-									<p>Comment décorer une chambre de bébé avec un petit budget?</p>
-									<a href="https://www.deco.fr/deco-piece/79528-comment-decorer-la-chambre-de-bebe-avec-un-petit-budget" title=""   target="_blank" class="lnk-default2">Voir plus <i class="la la-arrow-right"></i></a>
-								</div>
-							</div><!--blog-post end-->
-						</div>
-						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-							<div class="blog-post">
-								<div class="blog-thumbnail">
-									<a href="https://www.deco.fr/photos/diaporama-10-petites-salles-bains-d_708" title="" target="_blank"><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_home_blog_3.jpg" alt=""></a>
-									<span class="category">deco.fr</span>
-								</div>
-								<div class="blog-info">
-									<span>25 janvier 2023</span>
-									<h2 class="blog-title"><a href="https://www.deco.fr/photos/diaporama-10-petites-salles-bains-d_708" title="" target="_blank">Les petites salles de bain</a></h2>
-									<p>Comment bien les agencer?</p>
-									<a href="https://www.deco.fr/photos/diaporama-10-petites-salles-bains-d_708" title="" class="lnk-default2" target="_blank">Voir plus <i class="la la-arrow-right"></i></a>
-								</div>
-							</div><!--blog-post end-->
-						</div>
-						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-							<div class="blog-post">
-								<div class="blog-thumbnail">
-									<a href="https://www.deco.fr/diapos-deco/73598-20-objets-deco-a-acquerir-pour-une-maison-de-famille" title="" target="_blank"><img class="blog-thumbnail-img" src="{{ site.baseurl }}/assets/images/images_home_blog_2.jpg" alt=""></a>
-									<span class="category">deco.fr</span>
-								</div>
-								<div class="blog-info">
-									<span>31 août 2019</span>
-									<h2 class="blog-title"><a href="https://www.deco.fr/diapos-deco/73598-20-objets-deco-a-acquerir-pour-une-maison-de-famille" title="" target="_blank">Objets déco</a></h2>
-									<p>20 objets déco pour une maison de famille</p>
-									<a href="https://www.deco.fr/diapos-deco/73598-20-objets-deco-a-acquerir-pour-une-maison-de-famille" title="" class="lnk-default2" target="_blank">Voir plus <i class="la la-arrow-right"></i></a>
-								</div>
-							</div><!--blog-post end-->
-						</div>
-					</div>
-				</div><!---blog-posts end-->
-			</div>			
 		</section>
 
 		<footer>

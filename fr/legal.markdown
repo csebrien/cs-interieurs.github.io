@@ -4,7 +4,7 @@ code: legal
 title: "Mentions Légales"
 permalink: /fr/mentions_legales
 ---
-<html lang="en">
+<html lang="fr">
 {% include head.markdown %}
 
 

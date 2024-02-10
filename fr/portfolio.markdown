@@ -4,7 +4,7 @@ code: portfolio
 title: "Nos dernières réalisations"
 permalink: /fr/nos_dernieres_realisations # change corresponding i18n path variable if permalink changed here!
 ---
-<html lang="en">
+<html lang="fr">
 {% include head.markdown %}
 
 <body>

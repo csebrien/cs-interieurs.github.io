@@ -4,7 +4,7 @@ code: visite_conseil
 title: "Visite Conseil" 
 permalink: /fr/visite_conseil # change corresponding i18n path variable if permalink changed here! 
 ---
-<html lang="en">
+<html lang="fr">
  {% include head.markdown %} 
  <body>
  {% include page-loading.markdown %}
