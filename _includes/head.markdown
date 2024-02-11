@@ -6,7 +6,7 @@
 	<meta name="description" content="{{ page.title }}" />
 	<meta name="author" content="George_fx">
 	<meta name="keywords" content="" />
-	<meta code="{{ page.code }}">
+	<meta name="page-code" code="{{ page.code }}">
 	<link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.png">
 	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/animate.css">
 	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/bootstrap.min.css">

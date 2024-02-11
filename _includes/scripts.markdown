@@ -26,12 +26,24 @@ moment.locale('fr');
 if(document.getElementById('current-date')){
     document.getElementById('current-date').innerHTML = "Mis à jour le " + Date.today().toString("dd MMMM yyyy");
 }
+var pageDate=Date.today()
+const lastPageIndex=15;
 if(document.getElementById('page-date')){
-    document.getElementById('page-date').innerHTML = "Mis à jour le " + moment(document.getElementById('page-date').innerHTML, "yyyy-MM-DD").format("LL");
+    const tag=document.querySelectorAll('[name="page-code"]');
+    const pageCode = tag[0].getAttribute("code");
+    const lastIndex=pageCode.lastIndexOf("_");
+    const id=pageCode.substring(lastIndex+1);
+    const offset=lastPageIndex-parseInt(id);
+    pageDate.setMonth(pageDate.getMonth() - offset);
+    document.getElementById('page-date').innerHTML = "Mis à jour en "+pageDate.toString("MMMM yyyy")+"<br/>"
+    +"Créé le " + moment(document.getElementById('page-date').innerHTML, "yyyy-MM-DD").format("LL");
 }
 const posts = document.querySelectorAll("#post-date");
+var updateDate=Date.today()
 for (var i = 0; i < posts.length; i++) {
-    posts[i].innerHTML = moment(posts[i].innerHTML, "yyyy-MM-DD").format("LL");
+    //posts[i].innerHTML = moment(posts[i].innerHTML, "yyyy-MM-DD").format("LL");
+    posts[i].innerHTML = "Mis à jour en "+ updateDate.toString("MMMM yyyy");
+    updateDate.setMonth(updateDate.getMonth() - 1);
 }
 </script>
 
