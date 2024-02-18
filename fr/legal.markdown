@@ -3,6 +3,7 @@ layout: null
 code: legal
 title: "Mentions Légales"
 permalink: /fr/mentions_legales
+last_modified_at : "2024-02-18"
 ---
 <html lang="fr">
 {% include head.markdown %}

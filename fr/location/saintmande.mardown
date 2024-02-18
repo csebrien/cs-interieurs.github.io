@@ -4,6 +4,7 @@ code: home
 permalink: /fr/saintmande/index.html # change corresponding i18n path variable if permalink changed here!
 title: CS Intérieurs, décoration et design d'intérieur à Saint-Mandé
 town: Saint-Mandé
+last_modified_at : "now"
 ---
 {% include home.markdown %}
 

@@ -3,6 +3,7 @@ layout: null
 code: amenagement_et_decoration_d_interieur 
 title: "Aménagement et décoration d'intérieur" 
 permalink: /fr/amenagement_et_decoration_d_interieur  # change corresponding i18n path variable if permalink changed here! 
+last_modified_at : "2024-02-18"
 ---
 <html lang="fr">
  {% include head.markdown %} 

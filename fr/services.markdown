@@ -3,6 +3,7 @@ layout: null
 code: services
 title: "Nos prestations"
 permalink: /fr/nos_prestations # change corresponding i18n path variable if permalink changed here!
+last_modified_at : "2024-02-18"
 ---
 <html lang="fr">
 {% include head.markdown %}
